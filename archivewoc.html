@@ -1,0 +1,28 @@
+---
+layout: default
+title: Archive Without Categories
+---
+
+<div>
+  <h2>All posts</h2>
+  <section class="archive_list">
+    <table>
+      {% for post in site.posts %}
+
+      <tr>
+        <div class="post_title">
+          <td>{{ post.date | date: "%F" }}&nbsp;&nbsp;</td>
+          <td>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+          </td>
+        </div>
+      </tr>
+
+      {% endfor %}
+    </table>
+  </section>
+
+  <!--<footer class="article-footer" mar>
+    {% include author.html %}
+  </footer>-->
+</div>
