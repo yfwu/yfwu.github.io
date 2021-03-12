@@ -1,0 +1,34 @@
+---
+layout: default
+title: Archive With Categories
+---
+
+<div>
+  <h2>Archive</h2>
+
+  <section class="archive_list">
+    {% for category in site.categories %}
+
+    <div class="category-name">
+      <h2>{{ category | first }}</h2>
+    </div>
+    <table>
+      {% for post in category.last %}
+      <tr>
+        <div class="post_title">
+          <td>{{ post.date | date: "%F" }}&nbsp;&nbsp;</td>
+          <td>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+          </td>
+        </div>
+      </tr>
+      {% endfor %}
+    </table>
+
+    {% endfor %}
+  </section>
+
+  <!--<footer class="article-footer" mar>
+    {% include author.html %}
+  </footer>-->
+</div>
