@@ -1,7 +1,8 @@
 ---
-title: 用 Racket 刷題
+title: "用 Racket 刷題"
 layout: post
-category: Racket
+category: Functional
+tags: ["Racket"]
 ---
 
 在 online judge 領域中，大家最熟悉的就是 [LeetCode](http://leetcode.com) 刷題 - 把上面的題目做懂是進 FLAG 的一個必要條件。我其實一直想做些演算法的題目來增進實力；不過，在本機寫完，貼上去跑測試、再回頭修 code 其實不是很方便，我希望有一套工具可以快速搞定驗證、上傳的部分，我只要在本機端按下幾個按鈕就好。LeetCode 支持的程式語言種類不是很多 - 只有主流的幾種，例如 Python / C++ 等。如果想用小語種，例如我最近在深入的 Racket 跟 Julia，則要考慮另一個刷題選擇 - [HackerRank](https://hackerrank.com)。
