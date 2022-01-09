@@ -4,7 +4,7 @@ layout: post
 category: Matlab
 ---
 
-說到 Matlab 專案的資料夾結構，不少程式語言都是把類似用途的函數放在同一個檔案內，然後通過 TDD（test-driven development）的流程來控管，並且在檔案互相呼叫下，可以有效以 **namespace** 的特性避免衝突。但是，Matlab 似乎沒有這種特性？於是使得目錄下面有數十個 Matlab 的 `.m` 檔案。這篇嘗試深入瞭解一下這個問題及是否有 namespace 的替代方案。
+說到 Matlab 專案的資料夾結構，不少程式語言都是把類似用途的函數放在同一個檔案內，然後通過 TDD（test-driven development）的流程來控管，並且在檔案互相呼叫下，可以有效以 namespace 的特性避免衝突。但是，Matlab 似乎沒有這種特性？於是使得目錄下面有數十個 Matlab 的 `.m` 檔案。這篇嘗試深入瞭解一下這個問題及是否有 namespace 的替代方案。
 
 ## Local Functions
 
@@ -40,7 +40,7 @@ end
 
 ## Nested Functions
 
-接著我注意到 Matlab 的另外一個特性：**nested functions** （說明見官方文件 [nested functions](http://www.mathworks.com/help/matlab/matlab_prog/nested-functions.html)）。
+接著我注意到 Matlab 的另外一個特性：nested functions （說明見官方文件 [nested functions](http://www.mathworks.com/help/matlab/matlab_prog/nested-functions.html)）。
 
 ```matlab
 function parent
@@ -53,7 +53,7 @@ function parent
 end
 ```
 
-其實只是複雜函數內部的程式碼重複使用的一些注意事項。對於解決我的問題其實幫助不大。官方文件後面則是討論作用域（稱爲 **workspace**）的問題 XD
+其實只是複雜函數內部的程式碼重複使用的一些注意事項。對於解決我的問題其實幫助不大。官方文件後面則是討論作用域（稱爲 workspace）的問題 XD
 
 ## Namespace 的替代方案
 

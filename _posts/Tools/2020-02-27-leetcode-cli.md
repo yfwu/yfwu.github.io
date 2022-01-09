@@ -30,7 +30,7 @@ class SolutionTestCase(unittest.TestCase):
         self.assertEqual(21, Solution.reverse(120))
 
     def test_personal(self): # 測試自己添加的案例
-        self.assertEqual(0, Solution.reverse(2**31))
+        self.assertEqual(0, Solution.reverse(231))
 ```
 
 然後可以通過執行器 `TextTestRunner` 執行測試，例如：

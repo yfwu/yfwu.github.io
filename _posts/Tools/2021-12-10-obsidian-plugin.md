@@ -1,5 +1,5 @@
 ---
-title: "Obsidian 必裝插件"
+title: "Obsidian 模組"
 category: Tools
 layout: post
 tags: ["Obsidian"]

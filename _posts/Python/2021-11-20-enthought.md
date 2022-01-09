@@ -2,11 +2,12 @@
 title: "Enthought 生態系"
 category: Python
 layout: post
+tags: ["Enthought"]
 ---
 
 最近回老家，發現了一本 2013 年買的《用 Python 做科學計算》（現在有 [Gitbook 的版本](https://wizardforcel.gitbooks.io/hyry-studio-scipy/content/) 。這本書其實是一個大自然的搬運工，因為看起來是翻譯或改寫工具的介紹文件）。前半段介紹的是 Python 科學計算的底層 - NumPy 和 SciPy，以及重要的兩個核心工具 - SymPy（符號運算）和 Matplotlib（繪圖）。
 
-書中後半部分則介紹了很多庫（lib） ... 仔細一看，它們其實都來自於 [Enthought](https://www.enthought.com) 這間公司。他們著名的產品是 **Python(X,Y)**（現在改名 Enthought Tool Suite），這是一套類似 Conda + Spyder 的環境，給他們的客戶一個架構好的資料處理環境而不用去煩惱相依性或是功能的問題，**本質上是 Matlab 和 Rstudio 的競爭對手**。
+書中後半部分則介紹了很多庫（lib） ... 仔細一看，它們其實都來自於 [Enthought](https://www.enthought.com) 這間公司。他們著名的產品是 Python(X,Y)（現在改名 Enthought Tool Suite），這是一套類似 Conda + Spyder 的環境，給他們的客戶一個架構好的資料處理環境而不用去煩惱相依性或是功能的問題，本質上是 Matlab 和 Rstudio 的競爭對手。
 
 作者介紹了如下的幾個由 Enthought 開發的庫：
 
