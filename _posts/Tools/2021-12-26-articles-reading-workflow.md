@@ -20,7 +20,7 @@ layout: post
 
 - 身兼「管理」和「筆記」兩大功能；在自動更新 metadata 方面應該是業界最強。
 - Enhanced PDF 模式非常好用，可以在本文跟 references 之間跳躍。
-- **Matrics 功能，可以看這篇論文引用了哪些文章，以及哪些文章引用了本文。**這是我覺得最實用的功能。
+- Matrics 功能，可以看這篇論文引用了哪些文章，以及哪些文章引用了本文。這是我覺得最實用的功能。
 - 跨平台同步：有網頁版跟單機版（應該使用了 Electroon app），也支援行動平台。需要點擊同步來進行註解的更新。
 - 支援共享論文列表（需要對方也用 Readcube）；或者匯出成 BibTex。
 
@@ -39,7 +39,7 @@ BibTeX 是一個與 LaTeX 同樣古老的學術格式，用來記錄多種文檔
 
 ## Citation Style Language
 
-[Citation Stype Language](https://citationstyles.org) 引用文獻樣式語言是 Bruce D’Arcus 在 OpenOffice.org 的 CiteProc 子專案，主要結構是一種 XML。**CSL 可以視為現代化的 BibTeX 替代方案**。在文書軟體中（特別是 Word 跟 OpenOffice），論文管理軟體通過 CSL 指定的格式，插入論文文件連結，使用者不再需要手動生成、編輯 BibTeX 及其 style 文件。大部分主流的書目文獻管理軟體都有支援。可以[搜尋](https://editor.citationstyles.org/searchByExample/)主流格式（例如醫學常用的 AMA），而如果是小眾期刊，則可以直接[線上編輯](https://editor.citationstyles.org/visualEditor/)看效果。
+[Citation Stype Language](https://citationstyles.org) 引用文獻樣式語言是 Bruce D’Arcus 在 OpenOffice.org 的 CiteProc 子專案，主要結構是一種 XML。CSL 可以視為現代化的 BibTeX 替代方案。在文書軟體中（特別是 Word 跟 OpenOffice），論文管理軟體通過 CSL 指定的格式，插入論文文件連結，使用者不再需要手動生成、編輯 BibTeX 及其 style 文件。大部分主流的書目文獻管理軟體都有支援。可以[搜尋](https://editor.citationstyles.org/searchByExample/)主流格式（例如醫學常用的 AMA），而如果是小眾期刊，則可以直接[線上編輯](https://editor.citationstyles.org/visualEditor/)看效果。
 
 不過為了能與筆記軟體 Obsidian 整合，我會續用 BibTeX 工具。
 

@@ -1,12 +1,13 @@
 ---
-title: "Obsidian Kanban 看板"
+title: "Obsidian 模組 - Kanban 看板"
 category: Tools
 layout: post
+tags: ["Obsidian"]
 ---
 
 看板（kanban、かんばん）源自工業界，後來也有很多軟體工程引入作為團隊任務管理與追蹤的一環。看板結合軟體工程是一個巨大的題目，包含了切割任務（顆粒度）以及文件、團隊劃分等任務，不是本文重點，不提。筆記軟體 Notion 及個人用戶免費的 Trello 的普及化使得「個人看板」（personal kanban）變的普遍；著名的個人看板教學書籍有《精實開發看板方法》等。
 
-看板的奧義是：**自我約束**。通過管控手上的任務（doing），來實際推動任務進行，以免開了很多任務卻都沒有達成；只有達成了任務（done）才能領取新的任務（to-do）。這是經典的任務生命週期三欄看板。
+看板的奧義是：自我約束。通過管控手上的任務（doing），來實際推動任務進行，以免開了很多任務卻都沒有達成；只有達成了任務（done）才能領取新的任務（to-do）。這是經典的任務生命週期三欄看板。
 
 個人看板控制能力（來自 David J. Anderson）：
 
@@ -27,7 +28,7 @@ layout: post
 - 研究：將來可能會參與多個研究計畫（目前手頭有三個進行中、兩個構想中），同時需要應付很多不同截止期的論文、申請書或報表，這是需要管控的。
 - 學習：做為將來進修以及研究所需的根基，必須每週撥出時間進行學習。
 
-其中**研究**這一塊需要進行筆記、整合文獻等工作。前述文章 [論文工具鏈](https://yfwu.github.io/tools/2021/12/26/articles-reading-workflow.html) 提過論文工作流，節錄如下：
+其中研究這一塊需要進行筆記、整合文獻等工作。前述文章 [論文工具鏈](https://yfwu.github.io/tools/2021/12/26/articles-reading-workflow.html) 提過論文工作流，節錄如下：
 
 - 搜集：瀏覽器的 Readcube plugin 可以添加當前頁面到其資料庫
 - 閱讀：使用 Readcube 閱讀並管理文獻列表
@@ -39,8 +40,8 @@ layout: post
 
 其中沒有提到的是關於任務的分級。例如：
 
-- **要提交給老闆（們）的實驗室週報彙整了沒？**
-- **重要文獻讀完了嗎？次要文獻讀完了嗎？文獻也需要交叉比較**
+- 要提交給老闆（們）的實驗室週報彙整了沒？
+- 重要文獻讀完了嗎？次要文獻讀完了嗎？文獻也需要交叉比較
 - 計畫書草稿進度如何？
 
 因此，有必要引入一個可以跟目前的筆記工具深度結合的任務管理機制；當然，也可以用其他 GTD 工具或線上看板，不過，若要善用 backlink 機制，最好的還是能直接跟筆記工具結合的 Obsidian Kanban。
@@ -49,11 +50,7 @@ layout: post
 
 [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban) 是一個「渲染器」，用來把符合其要求的、帶有特殊 YAML head formatter 的 markdown 文件轉換成看板。Obsidian Kanban 可以很好的運作於 iPhone 及 iPad 版的 Obsidian app 上。
 
-底下是官方圖片：
-
-![Official example image](https://matthewmeye.rs/obsidian-kanban/Assets/Screen%20Shot%202021-09-16%20at%2012.58.22%20PM.png)
-
-### 基本使用
+基本使用：
 
 1. 通過點擊資料夾右鍵建立新看板
 2. 添加新欄位、添加新卡片

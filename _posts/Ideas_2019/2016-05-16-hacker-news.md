@@ -3,9 +3,10 @@ title: "讀 Hacker News"
 category: Ideas
 layout: post
 ---
+
 對於極端忙碌但是又想要抓住最新科技脈動的人，我推薦每天花一點時間刷一下 [Hacker News](https://news.ycombinator.com/)，相關説明可以見：[Wikipedia: Hacker News](https://zh.wikipedia.org/wiki/Hacker_News)、[網路人重要資訊來源：Hacker News，超宅但又超重要的資訊集散地](http://www.inside.com.tw/2011/02/15/what-you-should-subscribe-hacker-news-provided-by-y-combinator)
 
-Hacker News 是美國 silicon valley 最有名的一間創投公司 - Y Combinator - 所維護的網路新聞平臺，用來提交任何「大家會想知道的主題」，不過比較偏電腦科技，**但是最近一年來也多了很多生醫文章**。特色在於通過 up vote 來決定文章留存及排名（參考阮一峰的[《基於用戶投票的排名算法（一）》](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)這篇文章）。
+Hacker News 是美國 silicon valley 最有名的一間創投公司 - Y Combinator - 所維護的網路新聞平臺，用來提交任何「大家會想知道的主題」，不過比較偏電腦科技，但是最近一年來也多了很多生醫文章。特色在於通過 up vote 來決定文章留存及排名（參考阮一峰的[《基於用戶投票的排名算法（一）》](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)這篇文章）。
 
 ## 爲什麼要看？
 
@@ -15,4 +16,4 @@ Hacker News 是美國 silicon valley 最有名的一間創投公司 - Y Combinat
 
 ## 操作方法
 
-一般來説，轉載的文章會在標題後面附上來源，如果直接點標題是跳轉原文網址了。如果要看 comment 則是點該則文下方一行的 ``comment`` 紐來看。我喜歡配合著 Hacker News + 原文的 disqus 討論區看看其他人怎麼想。
+一般來説，轉載的文章會在標題後面附上來源，如果直接點標題是跳轉原文網址了。如果要看 comment 則是點該則文下方一行的 `comment` 紐來看。我喜歡配合著 Hacker News + 原文的 disqus 討論區看看其他人怎麼想。

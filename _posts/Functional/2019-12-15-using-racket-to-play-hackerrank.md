@@ -11,7 +11,7 @@ tags: ["Racket"]
 
 ## HackerRank 介紹
 
-HackerRank 這一類型的刷題網站都是由題目、未公開的題目與答案資料集組成。程式有一個既定的讀寫框架，解題者主要是在題目與答案之間構建一個**函數**來解決問題。主要的題目類別包含「Algorithm」，以及「Distributed system」「Security」「Functional programming」等幾種。
+HackerRank 這一類型的刷題網站都是由題目、未公開的題目與答案資料集組成。程式有一個既定的讀寫框架，解題者主要是在題目與答案之間構建一個函數來解決問題。主要的題目類別包含「Algorithm」，以及「Distributed system」「Security」「Functional programming」等幾種。
 
 ## Racket 介紹
 

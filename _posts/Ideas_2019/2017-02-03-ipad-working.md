@@ -11,7 +11,7 @@ iPad 是否能取代筆電一直是一個很有趣的爭論話題。隨著雲的
 我的筆記方案經過多個選擇，最後決定使用 Github 的 private repo 來同步。在電腦上用的是神之編輯器 Emacs。在 iPad 上，我選擇「Working Copy」這款付費 App。<del>底下安利文</del>：
 
 1. 完善的各種 git 服務端支持，包括 Github、BitBucket、Gitlab。
-2. 支持 ncurses 及語法高亮的內建編輯器。換句話說，**大部分的 Emacs 按鍵（例如，Ctrl-a、Ctrl-v）我都可以在編輯器中爽快使用**。語法高亮（syntax highlight）支持我用到的所有語言，包括 R、Python、Clojure、SQL、Matlab（它用的是 highlight.js）的方案。
+2. 支持 ncurses 及語法高亮的內建編輯器。換句話說，大部分的 Emacs 按鍵（例如，Ctrl-a、Ctrl-v）我都可以在編輯器中爽快使用。語法高亮（syntax highlight）支持我用到的所有語言，包括 R、Python、Clojure、SQL、Matlab（它用的是 highlight.js）的方案。
 3. 內嵌圖片方便，markdown 有預覽功能。
 
 有了這個方案，我其實已經放棄付費的 Evernote、肥大慢速的 OneNote、buggy 的 Leanote、陽春的 SimpleNote 等幾個解決方案。
@@ -22,7 +22,7 @@ iPad 是否能取代筆電一直是一個很有趣的爭論話題。隨著雲的
 
 ## 遠端連線
 
-我有時通過 ngrok 的解決方案連回我電腦的虛擬機（使用 Windows 跑虛擬 Arch），使用的軟體是方便無廣告免費的 **Terminus**。也有 TeamViewer 可以連到遠端 Windows。
+我有時通過 ngrok 的解決方案連回我電腦的虛擬機（使用 Windows 跑虛擬 Arch），使用的軟體是方便無廣告免費的 Terminus。也有 TeamViewer 可以連到遠端 Windows。
 
 ## 檔案同步
 

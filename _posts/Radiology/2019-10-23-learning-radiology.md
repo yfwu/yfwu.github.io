@@ -2,7 +2,9 @@
 title: "學習放射科知識"
 category: Ideas
 layout: post
+tags: ["Resident"]
 ---
+
 我們一個資深的主治醫師教我一個學習的技巧，即「任何病都要有比較對象」。例如我們的面試，曾有個考題是小兒出現在 CP angle 的腫瘤。在這題的情境下可以拆分成：
 
 - CP angle 最常見的三種腫瘤？

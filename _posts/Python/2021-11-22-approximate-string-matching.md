@@ -2,6 +2,7 @@
 title: "模糊字串比對"
 layout: post
 category: Python
+tags: ["RegExp", "pandas"]
 ---
 
 小學妹的研究中有個要從病歷中獲取關鍵字的需求。例如：pneumonia，不過考慮到我們的病歷都是疲累的住院醫師打出來的，所以有不少的錯字（例如：多了一個字 pneumoniaa / 字序有誤 peunomonia），需要模糊比對。稍微研究了一下，了解到這個區塊的正式知識叫做 [approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)
@@ -42,7 +43,7 @@ def compare(word: str, texts: Text, n: int):
 ```
 
 - 上面程式碼通過 `Levenshtein.distance()` 這個函數來比對每個單字與目標字的距離，小於閾値 n 的單字則返回。
-- 由於目標是「偵測」，所以用的是**非貪婪搜尋模式**（也就是找到第一個即返回，剩下的字忽略）。
+- 由於目標是「偵測」，所以用的是非貪婪搜尋模式（也就是找到第一個即返回，剩下的字忽略）。
 - 另用 type hint 標明型別。
 - 如果改用 Damerau-Levenshtein distance 的話，則可以如下改寫 `compare`（把 `import` 部分替換掉即可）。使用的是叫 `fastDamerauLevenshtein` 的模組 [link](https://pypi.org/project/fastDamerauLevenshtein/)
 
