@@ -10,5 +10,5 @@ image: /assets/img/inoreader.png
 在 macOS / iOS 體系中，最好的軟體便是一次性購買的 Reeder3。但是他有個缺點，即無法同步閱讀記錄。軟體支持通過第三方線上軟體來同步閱讀記錄。我個人是比較偏好大牌子的 Inoreader。但是自動化地添加鏈接到 Inoreader 中是付費功能。我要怎麼通過 hack 免費版來達成這個任務呢？這時候，就可以派出我最新買的 macOS 上的 AutoHotKey — Keyboard Mastero。使用 Keyboard Mastero 的自動按鍵功能，實現如下操作：
 
 - 擷取網站網址
-- 開啟 Inoreader 的 discover 功能 - 自動挖掘 RSS 或 Atom link
+- 開啓 Inoreader 的 discover 功能 - 自動挖掘 RSS 或 Atom link
 - 自動按下 A 進行添加
