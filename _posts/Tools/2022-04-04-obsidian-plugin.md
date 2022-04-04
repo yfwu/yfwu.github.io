@@ -5,13 +5,13 @@ layout: post
 tags: ["Obsidian"]
 ---
 
-最近看到兩個模組，分別是
+最近看到三個模組，分別是
 
 - [RSS](https://github.com/joethei/obsidian-rss)
 - [TTS](https://github.com/joethei/obsidian-tts)
 - [Simple Embeded](https://github.com/samwarnick/obsidian-simple-embeds)
 
-這三個是我覺得很有趣，但是試玩之後發現並無法融入我的筆記工作流的模組。還是寫文筆記之。
+覺得有趣，但是試玩之後發現並無法融入我的筆記工作流的模組。還是寫文筆記之。
 
 ## Obsidian RSS
 
