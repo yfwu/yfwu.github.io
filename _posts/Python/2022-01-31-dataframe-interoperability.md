@@ -46,7 +46,7 @@ mtcars2 <- read_feather("mtcars.feather")
 
 基於 Apache Arrow 的資料存貯格式，採用 Rust 所設計的 Python / Rust 和 NodeJS 通用套件；且由於是符合 Arrow 規範，可以跟其他工具直接對接。主功能是如同 Pandas 那樣對 dataframe 的操作，速度極快。跟據對比的 [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/)，性能位居 dataframe libs 前段班（是說我很震驚 R 的 data.table 竟然效能更為強大）。
 
-```Python
+```python
 import polars as pl
 
 from .dataset import dataset
