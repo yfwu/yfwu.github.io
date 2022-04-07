@@ -12,7 +12,7 @@ category: Tools
 
 當初購買這個網站是有感於自己對數學始終抓不到感覺；打開教材都是數學式一時難以著手。雖然高中很熱愛數學，不過那只是中學數學；上了大學後更是徹底荒廢。想不到後來走了放射科還遇到了機器學習的浪潮，使得深度學習和電腦圖學背後所需數學變得極為重要。
 
-Brilliant 另一個有趣的功能是每天提供一道數學謎題。GoldenGrape 有一篇文章 [〈如何快速進入工作學習狀態〉](https://goldengrape.github.io/posts/bulabula/How_to_get_into_work_or_study_quickly/) 裡面提到一種方法，及通過數學題佔據一部分思維空間，減少注意力被奪取的可能性。我覺得以 Brilliant 的數學謎題替代所提到「無憂公主的數學時間」還蠻不錯的。
+Brilliant 另一個有趣的功能是每天提供一道數學謎題。GoldenGrape 有一篇文章 [〈如何快速進入工作學習狀態〉](https://goldengrape.github.io/posts/bulabula/How_to_get_into_work_or_study_quickly/) 裡面提到一種方法，即通過數學題佔據一部分思維空間，減少注意力被奪取的可能性。我覺得以 Brilliant 的數學謎題替代所提到「無憂公主的數學時間」還蠻不錯的（雖然難度差一級）。
 
 ## Duolingo
 
