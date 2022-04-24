@@ -44,4 +44,4 @@ SORT file.name DESC
 
 就可以獲得如下的頁面啦！
 
-![Blog CMS](/assets/img/blog-obsidias-as-cms.png)
+![CMS](/assets/img/blog-obsidian-as-cms.png)
