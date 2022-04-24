@@ -2,7 +2,7 @@
 title: "用 Obsidian 撰寫及管理部落格文章"
 layout: post
 category: Tools
-image: /assets/img/blog-obsidias-as-cms.png
+image: /assets/img/blog-obsidian-as-cms.png
 ---
 
 前置要求是有個配置好的 GitHub Pages 搭配 Jekyll 的部落格，這部分網路上教學資源極多，這裡不贅述。
