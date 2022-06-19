@@ -1,5 +1,5 @@
 ---
-title: 遊戲：全境封鎖二
+title: "遊戲：全境封鎖二"
 category: Otaku
 layout: post
 tags: ["Anime"]
