@@ -1,10 +1,10 @@
 ---
-title: "在 Hahow 開課嚕"
+title: "在 Hahow 開課"
 category: Ideas
 layout: post
 ---
 
-在 Hahow 開課嚕，過程中真的要特別感謝辛苦的總監子葳大大，每天不辭辛勞的來督促懶散的我趕快完工 QAQ
+在 Hahow 開課啦！過程中真的要特別感謝辛苦的總監子葳大大，每天不辭辛勞的來督促懶散的我趕快完工 QAQ
 
 ## 錄製流程
 

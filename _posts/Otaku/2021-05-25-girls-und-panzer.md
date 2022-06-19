@@ -1,5 +1,5 @@
 ---
-title: 影評：少女與戰車
+title: "動畫：少女與戰車"
 category: Otaku
 layout: post
 tags: ["Anime"]

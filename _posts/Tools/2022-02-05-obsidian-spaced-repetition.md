@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 image: /assets/img/collections.png
 ---
 
-一直尋找一個能把閃卡跟筆記軟體整合的工具。之前使用 Mochi，不過 Mochi 還是有一個主要的問題，那就是萬物皆閃卡，導致我很難將同一個主題的多張不同類型卡片（同一個疾病或症候群）並覽。除此之外，也缺乏表格自動化重整的功能。不過自從發現了 Obsidian spaced repetition 這個模組後，便能够將需求整合，遂準備轉移回 Obsidian。
+一直尋找一個能把閃卡跟筆記軟體整合的工具。之前使用 Mochi，不過 Mochi 還是有一個主要的問題，那就是萬物皆閃卡，導致我很難將同一個主題的多張不同類型卡片（同一個疾病或症候群）並覽。除此之外，也缺乏表格自動化重整的功能。不過自從發現了 Obsidian spaced repetition 這個模組能够將需求整合，遂轉移回 Obsidian。
 
 ## Spaced Repetition
 
@@ -15,9 +15,9 @@ image: /assets/img/collections.png
 - 根據 [三張卡總結一種疾病](https://yfwu.github.io/ideas/2022/01/02/three-cards.html) 的工作流程創建知識閃卡。
 - 使用 Dataview 根據「出題年份」以及「次專科」標籤，將考題進行分類，變成一個大表！
 
-## 通過 Dateview 觀看每日新增筆記
+## 通過 Dataview 觀看每日新增筆記
 
-一重要事情是記錄、量化每日學習量。Dataview 能够完美達成此目標！在 daliy notes 的模板中添加
+一重要事情是記錄、量化每日學習量。Dataview 能够完美達成此目標！在 daily notes 的模板中添加
 
 ```sql
 TABLE category
@@ -27,7 +27,7 @@ WHERE file.cday=date("{%raw%}{{date}}{%endraw%}")
 
 ![Daily](/assets/img/daily.png)
 
-於是在創建 daily notes 的時候，便會在其中添加一個 dataview 模板；`{%raw%}{{date}}{%endraw%}` 會自動填充對應日期，能顯示當天新增了哪些筆記；它們同時也是 spaced repetition 的來源。
+在創建 daily notes 的時候，便會添加一個 dataview 模板；`{%raw%}{{date}}{%endraw%}` 會自動填充對應日期，能顯示當天新增了哪些筆記；它們同時也是 spaced repetition 的來源。
 
 ## 創建季考題卡片
 
