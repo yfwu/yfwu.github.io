@@ -47,7 +47,7 @@ Obsidian 是目前最火熱的 markdown 筆記軟體。今年初使用過一陣�
 
 這些是還在研究怎麼用的套件。它們相對沒那麼「剛需」。
 
-- [Spaced reptition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+- [Spaced repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
   - 把筆記轉換成 flashcard。需要注意的是：卡片的記憶狀態是寫在筆記內的，所以筆記會多很多給程式讀的日期條，不太美觀。
   - 我應該會繼續用 Mochi，因為這個插件不支援多面卡
 - [Citation](https://github.com/hans/obsidian-citation-plugin)：與 BibTeX 檔案結合使用，參考我另一篇論文工作流。

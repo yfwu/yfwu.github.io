@@ -24,7 +24,7 @@ category: Ideas
 
 ## 心法
 
-我想到另一篇從 Hacker News 看到的文章：[My Productivity App for the Past 14 Years Has Been A Single .txt File](https://jeffhuang.com/productivity_text_file/)。這篇是個大學教授，講述他使用電子日曆、電子郵件和一個文字檔即可很好的管理他所有的工作。初一開始我不是很理解。不過我後來發現，很多生產力工具都「過度複雜」了。例如 Roam Research。在我之前週記引用過的金句（[出處：《別加入 roamcult》）](https://sspai.com/post/61010)）：
+我想到另一篇從 Hacker News 看到的文章：[My Productivity App for the Past 14 Years Has Been A Single .txt File](https://jeffhuang.com/productivity_text_file/)。這篇是個大學教授，講述他使用電子日曆、電子郵件和一個文字檔即可很好的管理他所有的工作。初一開始我不是很理解。不過我後來發現，很多生產力工具都「過度複雜」了。例如 Roam Research。在我之前週記引用過的金句（[出處：《別加入 roamcult》）](https://sspai.com/post/61010)：
 
 > 如果你看到很多人用 Roam Research 做很酷的項目，那麼這種情況很大機率是因為這些項目本身很酷，而不是因為 Roam Research 很酷。
 
