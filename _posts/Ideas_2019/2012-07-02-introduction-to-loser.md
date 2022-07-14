@@ -1,5 +1,5 @@
 ---
-title: 盧瑟的自白
+title: "盧瑟的自白"
 layout: post
 category: Ideas
 ---
