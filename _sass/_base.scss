@@ -458,7 +458,12 @@ pre > code {
 
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* th,
+
+table {
+  width: 100%;
+}
+
+th,
 td {
   padding: 12px 15px;
   text-align: left;
@@ -473,20 +478,6 @@ td:last-child {
   padding-right: 0;
 } */
 
-table,
-tr,
-td {
-  border: none;
-  vertical-align: top;
-}
-
-td {
-  width: 100px;
-}
-
-td + td {
-  width: auto;
-}
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– 
