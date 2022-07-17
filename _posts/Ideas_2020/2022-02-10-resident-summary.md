@@ -6,9 +6,20 @@ tags: [Resident]
 ---
 
 <style>
-table {
-    width: 100%;
-    text-align: right;
+th, td {
+  padding: 12px 15px;
+  text-align: right;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
 }
 </style>
 
