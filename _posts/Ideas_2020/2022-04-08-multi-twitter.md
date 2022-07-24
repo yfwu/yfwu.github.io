@@ -2,6 +2,7 @@
 title: "區分 Twitter 帳號用途"
 layout: post
 category: Ideas
+tags: ["Twitter"]
 ---
 
 目前總共有四個帳號：
