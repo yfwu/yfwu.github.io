@@ -6,7 +6,7 @@ category: Otaku
 
 一個帶有輕量劇情的工廠搭解謎模式遊戲，用數量不多的機構去組合出複雜的分子合成流程。每個組合會評比佔地面積和機構花費，並有來自社群設計的題目。
 
-![[blog-opus-magnum-chap01.gif]]
+![Opus Magnum](/assets/img/blog-opus-magnum-chap01.gif)
 
 遊戲對一個作品有三項評分，分別是：
 
