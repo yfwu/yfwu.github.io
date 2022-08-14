@@ -1,6 +1,6 @@
 ---
 title: "新サクラ大戦：筆記一"
-category: サクラ大戦
+category: Sakura
 layout: post
 image: /assets/img/sakura-revolution.png
 ---

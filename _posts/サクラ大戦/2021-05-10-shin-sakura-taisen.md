@@ -1,6 +1,6 @@
 ---
 title: "新サクラ大戦：筆記三"
-category: サクラ大戦
+category: Sakura
 layout: post
 ---
 
