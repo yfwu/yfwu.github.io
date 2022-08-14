@@ -1,6 +1,6 @@
 ---
 title: サクラ大戦４：君よ花よ
-category: サクラ大戦
+category: Sakura
 layout: post
 ---
 
