@@ -66,4 +66,4 @@ cssClasses: cards
 ---
 ```
 
-接著則用正常的 dataview 撈資料，即可打造出神奇的 gallary！
+接著則用正常的 dataview 撈資料，即可打造出神奇的 gallery！

@@ -67,6 +67,6 @@ tags: ["Obsidian"]
 
 ### 進階
 
-Trello / Notion 卡片都會有其他的 metadata 欄位；Kanban plugin 也有設定自己的額外欄位的機制，即最下方的「linked page metadata」。設定好後，會自動顯示卡片中第一個筆記連結的 frontmatter 中的同名區域。
+Trello / Notion 卡片都會有其他的 metadata 欄位；Kanban plugin 也有設定自己的額外欄位的機制，即最下方的「linked page metadata」。設定好後，會自動顯示卡片中第一個筆記連結的 front-matter 中的同名區域。
 
 舉個例子：我在 citation tool 中，設定論文摘要的「檔名」是 `citekey` （DOI 去掉 `doi://`），front matter 則有 title，便可以讓 kanban 的卡片顯示這項資訊。

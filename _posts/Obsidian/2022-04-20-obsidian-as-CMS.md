@@ -20,8 +20,8 @@ image: /assets/img/blog-obsidian-as-cms.png
 ```shell
 #!/bin/zsh
 
-rsync -avu ~/Obsidian/Blog/* ~/blog/_posts/
-rsync -avu ~/Obsidian/assets/img/blog* ~/blog/assets/img
+rsync -avu --delete ~/Obsidian/Blog/* ~/blog/_posts/
+rsync -avu --delete ~/Obsidian/assets/img/blog* ~/blog/assets/img
 ```
 
 後面則是接到自動發 git add、commit 及 push 的程式碼。如果有些文章還沒有要發布，可以通過以下方式處理：
