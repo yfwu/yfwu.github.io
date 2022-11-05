@@ -2,7 +2,6 @@
 title: Pandas 的 pipeline 操作
 category: Python
 layout: post
-tags: ["Pandas"]
 ---
 
 稍微筆記一下關於 pandas pipeline 的紀錄、以及 `pdpipe`。

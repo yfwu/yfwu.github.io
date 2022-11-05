@@ -2,7 +2,6 @@
 title: "三張卡片的威力"
 layout: post
 category: Ideas
-tags: ["Obsidian"]
 ---
 
 <style>

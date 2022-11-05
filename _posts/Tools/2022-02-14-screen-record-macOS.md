@@ -2,7 +2,6 @@
 title: "macOS 螢幕錄影"
 category: Tools
 layout: post
-tags: ["macOS"]
 image: /assets/img/midi.png
 ---
 

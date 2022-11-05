@@ -2,7 +2,6 @@
 title: "處理 CSV 文件編碼"
 category: Python
 layout: post
-tags: ["Pandas"]
 ---
 
 先讀篇關於[編碼歷史的優秀文章](https://www.csie.ntu.edu.tw/~p92005/Joel/Unicode.html)。現代化的系統多使用 UTF-8，不過，偶爾還是會遇到解碼錯誤的 CSV。

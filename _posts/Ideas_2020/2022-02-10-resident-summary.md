@@ -2,7 +2,6 @@
 title: "住院醫師結訓"
 category: Ideas
 layout: post
-tags: [Resident]
 ---
 
 <style>
@@ -51,7 +50,7 @@ td:last-child {
 
 而我不足的報告份數的補救之道：
 
-- 接下來半年的 H 班值班時段也打一些急診的 CT 跟 plainfilm
+- 接下來半年的 H 班值班時段也打一些急診的 CT 跟 plain film
 - CR 期間有機會每天打一些腹部及頭部的 MRI（例如跟著某幾個大佬打）
 
 ## 學術成果

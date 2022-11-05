@@ -2,7 +2,6 @@
 title: VMLS & Coding The Matrix
 layout: post
 category: Math
-tags: ["VMLS", "COM"]
 ---
 
 加緊努力學習線性代數以及微積分。初級線性代數的話，我目前選定了兩本課本，介紹如下：

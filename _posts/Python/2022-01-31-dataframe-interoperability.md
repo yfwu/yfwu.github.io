@@ -2,7 +2,6 @@
 title: "Dataframe Interoperability"
 category: Python
 layout: post
-tags: ["Julia", "R", "Python"]
 ---
 
 Interoperability = the ability of computer systems or software to exchange and make use of information.

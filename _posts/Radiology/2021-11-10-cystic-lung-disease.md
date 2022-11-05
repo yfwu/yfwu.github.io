@@ -1,7 +1,6 @@
 ---
 title: "整理：Cystic lung disease"
 category: Radiology
-tags: ["Lung"]
 layout: post
 image: /assets/img/kjr-cld.jpg
 ---
