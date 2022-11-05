@@ -1,6 +1,6 @@
 ---
 title: "Obsidian 簡介"
-category: Tools
+category: Obsidian
 layout: post
 ---
 

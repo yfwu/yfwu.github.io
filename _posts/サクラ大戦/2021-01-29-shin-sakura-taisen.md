@@ -2,7 +2,7 @@
 title: "新サクラ大戦：筆記一"
 category: Sakura
 layout: post
-image: /assets/img/sakura-revolution.png
+image: "/assets/img/sakura-revolution.png"
 ---
 
 《新櫻花大戰》，是 SEGA 傳奇遊戲《サクラ大戦》的續作，設定在最後一部《サクラ大戦 V 〜さらば愛しき人よ〜》的十二年後。原本的三大華擊團（帝國、紐育、巴里）因為太正十九年的史上最大降魔大戰，全數跟著降魔皇一起被封印在幻都，所以只剩下神崎堇一個人。故事就從太正二十九年春天開始...

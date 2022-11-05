@@ -9,7 +9,7 @@ hidden: true
 
 ## Markdown mode 的一個使用知識
 
-Markdown 是一個輕量級標記語言，而其中比較多人使用的就是 GFM = Github flavored markdown，裏面標記程式碼區塊的語法相比原本的 Markdown 以及早期的擴展版本非常的簡潔有力。在 Emacs 中，markdown-mode 安裝好後預設是沒有啓用 code block syntax highlight 的。早期主要是搭配 mmm-mode 還是 polymode，不過後來作者把功能融入 markdown-mode 了！參考下列鏈接：[Feature request: syntax highlighting of fenced code blocks](https://github.com/jrblevin/markdown-mode/issues/372)。
+Markdown 是一個輕量級標記語言，而其中比較多人使用的就是 GFM = Github flavored markdown，裏面標記程式碼區塊的語法相比原本的 Markdown 以及早期的擴展版本非常的簡潔有力。在 Emacs 中，markdown-mode 安裝好後預設是沒有啓用 code block syntax highlight 的。早期主要是搭配 mmm-mode 還是 poly-mode，不過後來作者把功能融入 markdown-mode 了！參考下列鏈接：[Feature request: syntax highlighting of fenced code blocks](https://github.com/jrblevin/markdown-mode/issues/372)。
 
 ```lisp
 (setq markdown-fontify-code-blocks-natively t)

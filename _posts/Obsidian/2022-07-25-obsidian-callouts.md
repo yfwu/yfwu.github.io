@@ -1,8 +1,7 @@
 ---
 title: "Obsidian Callouts 及最近試玩的新模組"
 layout: post
-category: Tools
-tags: ["Obsidian"]
+category: Obsidian
 ---
 
 介紹這兩個月學到的新功能以及新模組。

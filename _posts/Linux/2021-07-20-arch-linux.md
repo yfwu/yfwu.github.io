@@ -8,7 +8,7 @@ layout: post
 
 ## 安裝
 
-用 [Archfi](https://github.com/MatMoul/archfi) 幫我處理比較固定的安裝流程如 `pacstrap`、`mkinitcpio`。由於是機器學習主機，因此我沒有安裝任何 Xorg 及桌面環境，保持系統整潔。據說官方也有安裝助手，不過我沒有測試。
+用 [Archfi](https://github.com/MatMoul/archfi) 幫我處理比較固定的安裝流程如 `pacstrap`、`mkinitcpio`。由於是機器學習主機，因此我沒有安裝任何 X.org 及桌面環境，保持系統整潔。據說官方也有安裝助手，不過我沒有測試。
 
 ## 雙作業系統
 
@@ -31,7 +31,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo fdisk /dev/sdb
 ```
 
-分割磁區，依次按鈕 `n`（新增）、`t`（選擇類別 29：Liunux RAID）、 `w`（寫入）。
+分割磁區，依次按鈕 `n`（新增）、`t`（選擇類別 29：Linux RAID）、 `w`（寫入）。
 
 ```bash
 sudo mdadm -C /dev/md0 -l5 -n4 /dev/sd{b,c,e,g}1 --assume-clean

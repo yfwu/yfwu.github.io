@@ -13,7 +13,7 @@ category: Linux
 - `sshfs`
 - `osxfuse`
 
-## sshfs
+## SSHFS
 
 > SSHFS allows you to mount a remote filesystem using SFTP. Most SSH servers support and enable this SFTP access by default, so SSHFS is very simple to use - there's nothing to do on the server-side.
 

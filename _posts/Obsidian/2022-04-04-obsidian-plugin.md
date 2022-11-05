@@ -1,8 +1,7 @@
 ---
 title: "Obsidian 模組 - RSS, TTS 及 Simple Embeded "
-category: Tools
+category: Obsidian
 layout: post
-tags: ["Obsidian"]
 ---
 
 最近看到三個模組，分別是

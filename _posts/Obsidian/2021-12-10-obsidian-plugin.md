@@ -1,8 +1,7 @@
 ---
 title: "Obsidian 模組"
-category: Tools
+category: Obsidian
 layout: post
-tags: ["Obsidian"]
 ---
 
 Obsidian 是目前最火熱的 markdown 筆記軟體。今年初使用過一陣子，不過最近發現變的比以前更方便使用，例如：

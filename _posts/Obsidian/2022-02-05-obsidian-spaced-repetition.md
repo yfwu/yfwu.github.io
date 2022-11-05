@@ -1,8 +1,7 @@
 ---
 title: "從 Mochi 轉移回 Obsidian"
-category: Tools
+category: Obsidian
 layout: post
-tags: ["Obsidian"]
 image: /assets/img/collections.png
 ---
 

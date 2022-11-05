@@ -1,7 +1,7 @@
 ---
 title: "Haskell in Emacs"
-category: Functional
-tags: ["Haskell"]
+category: Emacs
+tags: []
 layout: post
 ---
 

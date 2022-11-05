@@ -1,7 +1,7 @@
 ---
 title: "用 Obsidian 撰寫及管理部落格文章"
 layout: post
-category: Tools
+category: Obsidian
 image: /assets/img/blog-obsidian-as-cms.png
 ---
 
