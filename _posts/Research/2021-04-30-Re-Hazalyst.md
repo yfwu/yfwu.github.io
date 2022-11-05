@@ -2,7 +2,6 @@
 title: "回顧 Hazalyst"
 category: Hazalyst
 layout: post
-tags: ["Statistics"]
 ---
 
 前篇週記有提到 automatic retrospective Cohort study algorithm。我後來想一想，其實這也是拼湊出來的產物，可以寫個短文紀錄一下，並闡述如果繼續發展下去會有什麼方向的題目可以做。

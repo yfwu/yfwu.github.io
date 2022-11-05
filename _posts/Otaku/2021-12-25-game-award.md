@@ -3,7 +3,6 @@ title: "我的 2021 年度遊戲"
 category: Otaku
 layout: post
 image: /assets/img/cyberpunk2077.jpg
-tags: ["Game"]
 ---
 
 <style>

@@ -2,7 +2,6 @@
 title: "運行 PyTorch-UNet"
 category: Research
 layout: post
-tags: ["PyTorch"]
 ---
 
 本來計畫是運行專門為醫學影像特化的 [nnUNet](https://github.com/MIC-DKFZ/nnUNet#dataset-conversion) ，不過因為不知道怎麼將二維的 mask 轉換成三維結構並正確轉換為 NifTi 格式，所以只好先用一般性的 [UNet](https://github.com/milesial/Pytorch-UNet) 來試做。目前遇到的兩個主要問題：資料結構轉換時的資訊損失、3D UNet 碾壓性的醫學影像判讀優勢。

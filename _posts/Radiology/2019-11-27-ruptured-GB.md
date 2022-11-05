@@ -1,7 +1,6 @@
 ---
 title: "介入：膽囊引流（PTGBD）"
 category: Radiology
-tags: ["Hepatobiliary"]
 layout: post
 image: /assets/img/AC3.jpeg
 ---

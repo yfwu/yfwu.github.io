@@ -2,7 +2,6 @@
 title: "模糊字串比對"
 layout: post
 category: Python
-tags: ["RegExp", "pandas"]
 ---
 
 小學妹的研究中有個要從病歷中獲取關鍵字的需求。例如：pneumonia，不過考慮到我們的病歷都是疲累的住院醫師打出來的，所以有不少的錯字（例如：多了一個字 pneumoniaa / 字序有誤 peunomonia），需要模糊比對。稍微研究了一下，了解到這個區塊的正式知識叫做 [approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)

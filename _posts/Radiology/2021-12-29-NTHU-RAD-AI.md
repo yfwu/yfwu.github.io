@@ -3,7 +3,6 @@ title: "2021-12-29 雙月會筆記"
 category: Radiology
 layout: post
 image: /assets/img/model.png
-tags: ["Resident", "ML"]
 ---
 
 放射醫學會每兩個月會有個雙月會，由輪值醫院的放射科報告，本質上是一個分散型的年會。這次輪到台大醫院，台大影像科決定報告他們科關於 AI 方面的進展。底下是筆記和感想。

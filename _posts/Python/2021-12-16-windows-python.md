@@ -2,7 +2,6 @@
 title: "在 Windows 上安裝多個 Python"
 category: Python
 layout: post
-tags: ["Pyenv"]
 ---
 
 今天幫學長在 Windows 上裝一套叫 ASReview 的軟體，而這個軟體不曉得為什麼特別指定，需要 Python 3.8.1 版本。學長弄了半天還是沒搞定，所以來著找我幫忙看看。我自己 Windows 基本只用於打電玩；主機另外有一套 Arch Linux，而同為 Unix 衍生的 macOS 配置多版本 Python 也不是什麼困難事情，花了一點時間才搞懂如何在 Windows 上面設定。本來想說建議學長乾脆直接用 Conda，不過看學長已經很忙了，還是用比較簡單的方案。整個步驟如下：
