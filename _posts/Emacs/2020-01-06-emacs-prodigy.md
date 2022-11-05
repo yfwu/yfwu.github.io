@@ -9,7 +9,7 @@ hidden: true
 
 說到 Prodigy 就讓我想到一個 Minecraft 的模組叫 [Mobycraft](https://github.com/AdityaGupta1/mobycraft) - Mobycraft 讓使用者可以從 Minecraft 內操作各種 Docker container，玩家不需要離開 Minecraft 的環境。
 
-Prodigy 作爲一個控制界面，它可以協助我們迅速的啓動特定的服務。以我來說，例如 hexo server，特定資料夾的 Jupyter notebook server 都可以通過 Prodigy 快速啓動。所以我再也不需要在 iTerm2 切換到當前資料夾並輸入特定指令。
+Prodigy 作爲一個控制界面，它可以協助我們迅速的啟動特定的服務。以我來說，例如 hexo server，特定資料夾的 Jupyter notebook server 都可以通過 Prodigy 快速啟動。所以我再也不需要在 iTerm2 切換到當前資料夾並輸入特定指令。
 
 安裝方式請參考各自的 package manager。
 
@@ -31,11 +31,11 @@ defaults write org.gnu.Emacs NSAppSleepDisabled -bool YES
     (:prop value ...)))
 ```
 
-服務啓動後，會以一個 buffer 的形式來表示，major mode 是 prodigy-viewer-mode，關掉這個 buffer 會連帶的使進程關閉。在 prodigy 的控制面板中，可以控制這些進程。
+服務啟動後，會以一個 buffer 的形式來表示，major mode 是 prodigy-viewer-mode，關掉這個 buffer 會連帶的使進程關閉。在 prodigy 的控制面板中，可以控制這些進程。
 
 ## 控制面板，標籤與過濾器
 
-控制面板的操作模式類似 Dired，不過需要使用前綴 `c`（不是 control）。另外，可以定義標籤及過濾器，方便一次性的啓動服務。
+控制面板的操作模式類似 Dired，不過需要使用前綴 `c`（不是 control）。另外，可以定義標籤及過濾器，方便一次性的啟動服務。
 
 ```lisp
 ;; (prodigy-define-tag &rest args)
@@ -51,7 +51,7 @@ defaults write org.gnu.Emacs NSAppSleepDisabled -bool YES
 
 ## 我的使用場景
 
-主要是用來啓動研究專題資料夾的 Jupyter notebook 以及部落格 Hexo server。底下是我一個範例：
+主要是用來啟動研究專題資料夾的 Jupyter notebook 以及部落格 Hexo server。底下是我一個範例：
 
 ```lisp
 (prodigy-define-service

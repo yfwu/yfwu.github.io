@@ -9,7 +9,7 @@ layout: post
 ## 檢討
 
 - 訂閱的主題太多，絕大部分文章沒有立即閱讀的急迫性：在主要的研究方面，我的工具是 R，對應的領域是醫學研究相關的統計，比方說 survival analysis 以及 time series analysis。在視覺化及機器學習上其實目前還不是很需要。因此，訂閱諸如 [R blogger](https://www.r-bloggers.com/) 這樣的匯集網站因為資訊的破碎，其實幫助不大。如果我真的要學，其實 R 有不少挺完整的技術書，比方說《Learn Statistics with R》，從一般性主題到特定領域的程式，我應該節約看這些網路文章的精力，多花時間先把基礎功打好。
-- Digg deeper 會從我的推特中找出多數對象推的主題。因為我關注了不少 radiology、 neurology 以及 neuroscience 的帳號，所以我的 digg deeper 會不停的把被 retweet 多次的文章寄到信箱。可以註冊一個 digg 帳號協助過濾出 twitter 有價値的內容。
+- Digg deeper 會從我的推特中找出多數對象推的主題。因為我關注了不少 radiology、 neurology 以及 neuroscience 的帳號，所以我的 digg deeper 會不停的把被 retweet 多次的文章寄到信箱。可以註冊一個 digg 帳號協助過濾出 twitter 有價值的內容。
 - 綁訂了不少 RSS/Atom feed，利用 IFTTT 灌水到 Pocket 中。我的 Pocket 文章一直增多，然而都沒時間看，大部分看的都是收自瀏覽器（比方說部落格、遊戲評論，政治文等）。我的 Slack 也有不少通知，甚至頻道擠爆了。沿著第一點講，其實這些訊息都不是很重要。
 
 ## 改變

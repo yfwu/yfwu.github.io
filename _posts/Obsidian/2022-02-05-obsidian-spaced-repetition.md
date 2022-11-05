@@ -5,7 +5,7 @@ layout: post
 image: /assets/img/collections.png
 ---
 
-一直尋找一個能把閃卡跟筆記軟體整合的工具。之前使用 Mochi，不過 Mochi 還是有一個主要的問題，那就是萬物皆閃卡，導致我很難將同一個主題的多張不同類型卡片（同一個疾病或症候群）並覽。除此之外，也缺乏表格自動化重整的功能。不過自從發現了 Obsidian spaced repetition 這個模組能够將需求整合，遂轉移回 Obsidian。
+一直尋找一個能把閃卡跟筆記軟體整合的工具。之前使用 Mochi，不過 Mochi 還是有一個主要的問題，那就是萬物皆閃卡，導致我很難將同一個主題的多張不同類型卡片（同一個疾病或症候群）並覽。除此之外，也缺乏表格自動化重整的功能。不過自從發現了 Obsidian spaced repetition 這個模組能夠將需求整合，遂轉移回 Obsidian。
 
 ## Spaced Repetition
 
@@ -16,7 +16,7 @@ image: /assets/img/collections.png
 
 ## 通過 Dataview 觀看每日新增筆記
 
-一重要事情是記錄、量化每日學習量。Dataview 能够完美達成此目標！在 daily notes 的模板中添加
+一重要事情是記錄、量化每日學習量。Dataview 能夠完美達成此目標！在 daily notes 的模板中添加
 
 ```sql
 TABLE category

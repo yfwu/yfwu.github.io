@@ -19,7 +19,7 @@ layout: post
 
 回頭看，人生就是站在一個一步錯，步步錯的階段。例如，大學沒有累積論文與實驗室交換的經歷，沒有多認識外國朋友，也浪費了很多時間。雖然現在的生活「也還算過得去」，但是總是對於自己的人生「難道就這樣了嗎？」有點遺憾。
 
-目前申請的目標是： [Georgia Tech - Computational Science and Engineering](https://pe.gatech.edu/degrees/computational-science-engineering) 這個碩士學位。打算修數學 + 物理模擬（finite element / fluid dynamics）以及一些相關的數値模擬。
+目前申請的目標是： [Georgia Tech - Computational Science and Engineering](https://pe.gatech.edu/degrees/computational-science-engineering) 這個碩士學位。打算修數學 + 物理模擬（finite element / fluid dynamics）以及一些相關的數值模擬。
 
 中間預期會遇到幾個困難點：
 

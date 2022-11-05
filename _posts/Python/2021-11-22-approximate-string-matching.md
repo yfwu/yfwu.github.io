@@ -42,7 +42,7 @@ def compare(word: str, texts: Text, n: int):
     return None
 ```
 
-- 上面程式碼通過 `Levenshtein.distance()` 這個函數來比對每個單字與目標字的距離，小於閾値 n 的單字則返回。
+- 上面程式碼通過 `Levenshtein.distance()` 這個函數來比對每個單字與目標字的距離，小於閾值 n 的單字則返回。
 - 由於目標是「偵測」，所以用的是非貪婪搜尋模式（也就是找到第一個即返回，剩下的字忽略）。
 - 另用 type hint 標明型別。
 - 如果改用 Damerau-Levenshtein distance 的話，則可以如下改寫 `compare`（把 `import` 部分替換掉即可）。使用的是叫 `fastDamerauLevenshtein` 的模組 [link](https://pypi.org/project/fastDamerauLevenshtein/)

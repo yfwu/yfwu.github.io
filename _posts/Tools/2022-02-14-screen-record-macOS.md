@@ -14,7 +14,7 @@ image: /assets/img/midi.png
 
 ## 聲音聚合器
 
-從選單中開啓 Audio MIDI setup，從左下角的 + 中，分別建立
+從選單中開啟 Audio MIDI setup，從左下角的 + 中，分別建立
 
 - Aggregate Device：勾選 soundflower 2ch 及內建麥克風
 - Multi-Output Device：勾選 soundflower 2ch 及內建喇叭

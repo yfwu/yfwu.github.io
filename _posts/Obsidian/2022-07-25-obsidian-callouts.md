@@ -8,7 +8,7 @@ category: Obsidian
 
 ## Callout
 
-之前介紹過使用方框來強調定理、重點、異常處等（參考： [文字外框](https://yfwu.dev/tools/2021/11/17/border-example.html) ）。在 Obsidian 也有個工具叫 Ambition 能够達成類似的效果。最近，官方引入了原生方案叫 callout。
+之前介紹過使用方框來強調定理、重點、異常處等（參考： [文字外框](https://yfwu.dev/tools/2021/11/17/border-example.html) ）。在 Obsidian 也有個工具叫 Ambition 能夠達成類似的效果。最近，官方引入了原生方案叫 callout。
 
 ```
 > [!INFO]

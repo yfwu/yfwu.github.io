@@ -7,7 +7,7 @@ category: Tools
 其實比較熱門的是 NodeJS 寫的同名工具，也有豐富的插件，但是不知爲何我總是無法登入，所以改用 Rust 寫成的 [Leetcode-cli](https://github.com/clearloop/leetcode-cli)。注意：具體如何存取 Cookie 請參考官方頁面的介紹。
 
 - `search` 搭配參數（例如 easy）搜尋問題列表。通過 `pick` 觀看問題敘述。
-- `edit` 來編輯問題。可以設定要用什麼編輯軟體。我是會開啓一個 Emacs 作爲編輯。（本來想用 Emacsclient 但是不知道爲何一直失敗）
+- `edit` 來編輯問題。可以設定要用什麼編輯軟體。我是會開啟一個 Emacs 作爲編輯。（本來想用 Emacsclient 但是不知道爲何一直失敗）
 - `test` 以官方案例測試（不計入記錄）
 - `submit` 提交（會列入提交記錄）。最後會返回成績；如果失敗的話也會返回失敗的其中一個結果。
 
