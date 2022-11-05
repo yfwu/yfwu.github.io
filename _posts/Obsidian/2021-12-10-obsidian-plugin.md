@@ -14,8 +14,8 @@ Obsidian 是目前最火熱的 markdown 筆記軟體。今年初使用過一陣�
 
 ## 官方
 
-- 預設的 Quick Switcher 啓動快捷鍵是「Ctrl / Command + O」，有第三方插件增強此選擇器，可以安裝。
-- Backlink：一定啓動，雙向連結本軟體的最大特色。
+- 預設的 Quick Switcher 啟動快捷鍵是「Ctrl / Command + O」，有第三方插件增強此選擇器，可以安裝。
+- Backlink：一定啟動，雙向連結本軟體的最大特色。
 - Daily notes：每日筆記，不少人都是通過每日記錄做為入口。
 - Templates：以放置在指定資料夾內的筆記為模板，填充到其他筆記內。
 

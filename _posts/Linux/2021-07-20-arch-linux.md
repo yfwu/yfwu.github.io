@@ -57,8 +57,8 @@ sudo ethtool enp4s0 | grep Wake-on
 
 1. 需要同時安裝：`netctl`、`wifi-menu`、`dialog`、`wpa_supplicant` 這四個套件才能順暢使用無線網路（很奇怪的是 `wifi-menu` 竟然沒有設定 `dialog` 為相依，很令人困擾）。
 2. 從 grub 那邊取消網卡別名，修改一下 `grub.cfg` 中的 `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"` 然後更新 grub 檔案。
-3. 啓用域名解析服務，我用的是 `systemd-resolved`。
-4. `wifi-menu` 產生檔案；我把 IP 修改為 static，方便我設定 port forwarding。之後 enable 讓它固定啓用。
+3. 啟用域名解析服務，我用的是 `systemd-resolved`。
+4. `wifi-menu` 產生檔案；我把 IP 修改為 static，方便我設定 port forwarding。之後 enable 讓它固定啟用。
 
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg

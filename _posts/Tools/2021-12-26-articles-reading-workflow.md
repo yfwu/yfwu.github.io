@@ -28,7 +28,7 @@ layout: post
 
 BibTeX 是一個與 LaTeX 同樣古老的學術格式，用來記錄多種文檔（書籍、論文等）的基本資料，並讓 LaTeX 論文可以直接通過簡單的引用符號來加入 TeX 檔案中。現在的編輯軟體也都支援呼叫 BibTeX 檔案。BibTeX 就像是一個資料庫，規定了各種類型的文件及其基本資料欄位（名稱、年份等），可以通過一份 BibTeX 檔案搭配格式設定生成不同學會跟期刊要求的 references 格式（此種設定即稱為 style，BibTeX 一開始預設了幾種理工相關的）。
 
-在 LaTeX 文件裡面用下列的敘述啓用，指定格式 IEEEtran：
+在 LaTeX 文件裡面用下列的敘述啟用，指定格式 IEEEtran：
 
 ```latex
 \begin{document}

@@ -7,7 +7,7 @@ tags: ["Resident"]
 
 應該不少放射科住院醫師都以這種方式在練習。不過，我想到可能有些臨牀科醫師會想增加自己讀本科相關片的能力（像是神內外、消化內外科），所以也記錄一下。
 
-我目前爲止大部分的日常報告都符合二八法則 - 少數幾種疾病佔多數 - 例如日常急診値班，abdomen CT 絕大部分都是 IAI、acute cholecystitis；brain CT 大部分的異常都是 hemorrhage；就算是專科的報告，例如 MSK，也是以韌帶軟骨受傷等運動問題爲主。在這種情況下，針對比較不常見案例的練習就很重要了。
+我目前爲止大部分的日常報告都符合二八法則 - 少數幾種疾病佔多數 - 例如日常急診值班，abdomen CT 絕大部分都是 IAI、acute cholecystitis；brain CT 大部分的異常都是 hemorrhage；就算是專科的報告，例如 MSK，也是以韌帶軟骨受傷等運動問題爲主。在這種情況下，針對比較不常見案例的練習就很重要了。
 
 目前規模比較大而且有分類及詳解的放射科練習案例，首推 [Aunt Minnie Daily Case](https://www.auntminnie.com/index.aspx) 以及歐洲的 Aunt Minnie Daily Case 量都非常充足，而且有按部位區分。
 
