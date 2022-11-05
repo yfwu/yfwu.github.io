@@ -4,7 +4,7 @@ layout: post
 category: Tools
 ---
 
-本文摘錄並補充自 Twitter 用戶 [wastemobile](https://twitter.com/wastemobile) 的系列推文，並補充我自己的工作流程。不少人將筆記軟體作為第二大腦般使用：歸檔所見所聞的所有資訊。台灣有著名筆記愛好者「異塵行者」，中國也有不少網路作者是相關人士。我自己喜歡看的 Youtuber [Ali Abdaal](https://www.youtube.com/user/Sepharoth64) 也常常介紹他如何通過 Notion 和 Roam Research 搜集創作靈感。
+本文摘錄並補充自 Twitter 用戶 [wastemobile](https://twitter.com/wastemobile) 的系列推文，並補充我自己的工作流程。不少人將筆記軟體作為第二大腦般使用：歸檔所見所聞的所有資訊。台灣有著名筆記愛好者「異塵行者」，中國也有不少網路作者是相關人士。我自己喜歡看的 YouTuber [Ali Abdaal](https://www.youtube.com/user/Sepharoth64) 也常常介紹他如何通過 Notion 和 Roam Research 搜集創作靈感。
 
 ## 2018 年的第二大腦
 

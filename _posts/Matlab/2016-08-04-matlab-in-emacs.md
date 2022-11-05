@@ -27,7 +27,7 @@ sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncursesw.so.5
 ## 安裝 matlab-mode
 
 1. 直接使用 el-get 安裝！
-2. 重新啓動或者 eval-current-bufffer 之後，開啓一般的檔案如：function.m，會進入 matlab-mode 可以編輯。
+2. 重新啓動或者 `eval-current-bufffer` 之後，開啓一般的檔案如：function.m，會進入 matlab-mode 可以編輯。
 3. 以 `M-x matlab-shell` 可以啓動交互畫面，就跟主程式一樣沒有差別！
 4. 補充說明：shell-command 設定下去之後，`C-c C-c` 可以把整個 buffer 送進去執行，而 `C-c C-r` 則是將選定的區域送入執行
 5. 需要確定 Matlab 啓動腳本存在於 `$PATH` 內.

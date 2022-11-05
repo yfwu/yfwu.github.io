@@ -1,6 +1,6 @@
 ---
 title: "閱讀紀錄《生病，生病，WHY？》"
-category: Books
+category: Ideas
 layout: post
 ---
 

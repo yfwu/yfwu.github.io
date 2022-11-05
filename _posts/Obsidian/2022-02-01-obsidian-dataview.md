@@ -1,8 +1,7 @@
 ---
 title: "Obsidian 模組 - Dataview 視圖"
-category: Tools
+category: Obsidian
 layout: post
-tags: ["Obsidian"]
 ---
 
 繼續深入研究，我發現 Obsidian 將 front-matter meta-data 這一功能運用的爐火純青。不管是 Kanban 還是內建的 tags，都能從 front-matter 中讀取資料。最近我學習了一套筆記框架 LYT（linking your thinking），在我閱讀相關文章的時候，意外發現有人使用一個叫 Dataview 的模組進行筆記聚合，效果非常驚人。

@@ -1,8 +1,7 @@
 ---
 title: "Obsidian 模組 - Kanban 看板"
-category: Tools
+category: Obsidian
 layout: post
-tags: ["Obsidian"]
 ---
 
 看板（kanban、かんばん）源自工業界，後來也有很多軟體工程引入作為團隊任務管理與追蹤的一環。看板結合軟體工程是一個巨大的題目，包含了切割任務（顆粒度）以及文件、團隊劃分等任務，不是本文重點，不提。筆記軟體 Notion 及個人用戶免費的 Trello 的普及化使得「個人看板」（personal kanban）變的普遍；著名的個人看板教學書籍有《精實開發看板方法》等。

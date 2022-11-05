@@ -1,7 +1,7 @@
 ---
 title: "閱讀紀錄《打造創業型國家》"
+category: Ideas
 layout: post
-category: Books
 ---
 
 書名：《打造創業型國家：破除公司部門各種迷思，重新定位政府角色》（The Entrepreneurial State: Debunking Public vs. Private Sector Myths)，作者是經濟學家 Mariana Mazzucato。很簡短的看了一下，目標讀者應該是政府高官或者比較有聲量的 NGO 領導人，而不是我們這些「被統治者」。不過裡面提出了有意思的觀點，亦即政府要有能力對高風險但是具備巨大的長期收益項目做投資，例如：航太、能源，而不要被目前小政府主義所拘束而放任市場，因為市場並不會去投資收益未明的長期項目。

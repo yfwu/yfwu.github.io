@@ -12,7 +12,7 @@ tags: ["DeepL", "Google Translate", "Automation"]
 ## Xdite 的步驟
 
 - 從 Amazon 買書。
-- 用 Epubor Ultimate 清除 DRM，然後以 pandocc 轉換 epub 為 markdown。
+- 用 Epubor Ultimate 清除 DRM，然後以 Pandoc 轉換 epub 為 markdown。
 - 用 Xdite 自寫的 `tx_translate` Ruby Gem 通過騰訊的 API 翻譯。
 - 極速閱讀法完食之。
 
@@ -26,7 +26,7 @@ tags: ["DeepL", "Google Translate", "Automation"]
 
 ## 翻譯檔案
 
-主要目標是翻譯文字檔及 epub。首先根據副檔名，使用 pandoc 將檔案轉為 txt，然後使用前述的核心翻譯函數切 chunk 然後逐批處理。下面是 pandoc 轉換器指令碼生成器：
+主要目標是翻譯文字檔及 ePub。首先根據副檔名，使用 pandoc 將檔案轉為 txt，然後使用前述的核心翻譯函數切 chunk 然後逐批處理。下面是 pandoc 轉換器指令碼生成器：
 
 ```python
 # f = source filename, with extension

@@ -1,7 +1,7 @@
 ---
 title: "純文字工具鏈"
 layout: post
-category: Tools
+category: Obsidian
 ---
 
 前幾天閱讀了 [Write Plain Text Files](https://sive.rs/plaintext) 一文，與我這兩年來的工作流建設的想法一致。主要是介紹檔案格式應該保持純文字（然而內文可以是 Markdown、org-mode、LaTeX 等）。作者提到的幾個考量如下：

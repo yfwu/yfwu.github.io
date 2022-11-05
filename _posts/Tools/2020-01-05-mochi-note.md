@@ -5,7 +5,7 @@ category: Tools
 image: /assets/img/mochi.png
 ---
 
-這篇文章是個自來廣告：介紹我使用的筆記軟體 Mochi。我試過不少筆記軟體，除了主流的 Evernote / Onenote 以外，也試了偏門的如 Bear / Apple Notes / Simplenote / Dynalist / Quiver 等。作為一個放射科醫師，博學強記是基本要求。但其實自己作筆記肯定沒有 Radiopaedia 或者 STATDx 詳細且全面。另外，我有很多臨牀上遇到的實際案例、主治醫師晨會的統整型講解以及論文討論等，這些也包含也是重要的考試及實戰內容。我需要有個軟體幫我做好「遠外儲」這件事：
+這篇文章是個自來廣告：介紹我使用的筆記軟體 Mochi。我試過不少筆記軟體，除了主流的 Evernote / OneNote 以外，也試了偏門的如 Bear / Apple Notes / SimpleNote / Dynalist / Quiver 等。作為一個放射科醫師，博學強記是基本要求。但其實自己作筆記肯定沒有 Radiopaedia 或者 STATDx 詳細且全面。另外，我有很多臨牀上遇到的實際案例、主治醫師晨會的統整型講解以及論文討論等，這些也包含也是重要的考試及實戰內容。我需要有個軟體幫我做好「遠外儲」這件事：
 
 1. 必須能容納不少圖片（放射科影像）
 2. 必須有增量搜尋的功能（也就是可以一邊打字一邊反饋結果）
@@ -31,7 +31,7 @@ image: /assets/img/mochi.png
 
 ## Flashcard
 
-Flashcard（閃卡），是指以問答、填空形式，搭配 [spaced reptition](https://mochi.cards/blog/using-spaced-repetition-to-learn-a-language/) 來強化對特定細節記憶力的工具。最有名的就是 Anki，以及採用了不同演算法的 Supermemo。Anki 本身強大、簡單，界面簡潔同時也有很多套件。Mochi 本身就是個閃卡系統。平常工作時間被各種臨牀業務切分的極爲零碎，需要有閃卡利用時間讀書。但是平日下班後，很難專心的讀教科書做卡片，所以需要一套固定，不需要額外心智負擔的 workflow：
+Flashcard（閃卡），是指以問答、填空形式，搭配 [spaced repetition](https://mochi.cards/blog/using-spaced-repetition-to-learn-a-language/) 來強化對特定細節記憶力的工具。最有名的就是 Anki，以及採用了不同演算法的 Supermemo。Anki 本身強大、簡單，界面簡潔同時也有很多套件。Mochi 本身就是個閃卡系統。平常工作時間被各種臨牀業務切分的極爲零碎，需要有閃卡利用時間讀書。但是平日下班後，很難專心的讀教科書做卡片，所以需要一套固定，不需要額外心智負擔的 workflow：
 
 - 將電子資源知識原子化
 - 設定審覈內容的時間；利用週末精神較好的時候，決定是否保留卡片（剔除瑣碎、重複；整合相關連的卡片），並且進行內容精簡與調整。

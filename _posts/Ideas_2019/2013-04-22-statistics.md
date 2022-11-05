@@ -1,6 +1,6 @@
 ---
-title: 閱讀紀錄《統計，改變了世界》
-category: Books
+title: "閱讀紀錄《統計，改變了世界》"
+category: Ideas
 layout: post
 ---
 
