@@ -9,6 +9,8 @@
 
 @import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap");
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 - Grid
@@ -48,6 +50,7 @@
   /* for test only */
   border: 1px dashed #eeeeee;
 }
+
 .column,
 .columns {
   width: 100%;
@@ -68,10 +71,12 @@
   .container {
     width: 90%;
   }
+
   .column,
   .columns {
     margin-right: 4%;
   }
+
   .column:first-child,
   .columns:first-child {
     margin-right: 0;
@@ -81,36 +86,47 @@
   .one.columns {
     width: 4.66666666667%;
   }
+
   .two.columns {
     width: 13.3333333333%;
   }
+
   .three.columns {
     width: 22%;
   }
+
   .four.columns {
     width: 30.6666666667%;
   }
+
   .five.columns {
     width: 39.3333333333%;
   }
+
   .six.columns {
     width: 48%;
   }
+
   .seven.columns {
     width: 56.6666666667%;
   }
+
   .eight.columns {
     width: 65.3333333333%;
   }
+
   .nine.columns {
     width: 74%;
   }
+
   .ten.columns {
     width: 82.6666666667%;
   }
+
   .eleven.columns {
     width: 91.3333333333%;
   }
+
   .twelve.columns {
     width: 100%;
     margin-right: 0;
@@ -119,6 +135,7 @@
   .one-third.column {
     width: 30.6666666667%;
   }
+
   .two-thirds.column {
     width: 65.3333333333%;
   }
@@ -132,42 +149,52 @@
   .offset-by-one.columns {
     margin-right: 8.66666666667%;
   }
+
   .offset-by-two.column,
   .offset-by-two.columns {
     margin-right: 17.3333333333%;
   }
+
   .offset-by-three.column,
   .offset-by-three.columns {
     margin-right: 26%;
   }
+
   .offset-by-four.column,
   .offset-by-four.columns {
     margin-right: 34.6666666667%;
   }
+
   .offset-by-five.column,
   .offset-by-five.columns {
     margin-right: 43.3333333333%;
   }
+
   .offset-by-six.column,
   .offset-by-six.columns {
     margin-right: 52%;
   }
+
   .offset-by-seven.column,
   .offset-by-seven.columns {
     margin-right: 60.6666666667%;
   }
+
   .offset-by-eight.column,
   .offset-by-eight.columns {
     margin-right: 69.3333333333%;
   }
+
   .offset-by-nine.column,
   .offset-by-nine.columns {
     margin-right: 78%;
   }
+
   .offset-by-ten.column,
   .offset-by-ten.columns {
     margin-right: 86.6666666667%;
   }
+
   .offset-by-eleven.column,
   .offset-by-eleven.columns {
     margin-right: 95.3333333333%;
@@ -177,6 +204,7 @@
   .offset-by-one-third.columns {
     margin-right: 34.6666666667%;
   }
+
   .offset-by-two-thirds.column,
   .offset-by-two-thirds.columns {
     margin-right: 69.3333333333%;
@@ -197,13 +225,15 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%;
 }
+
 body {
-  font-size: 1.7em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.7em;
+  /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-family: "Noto Serif TC", "Hiragino Mincho ProN",
+  font-family: "Noto Serif TC", "Noto Serif JP", "Noto Serif SC", "Hiragino Mincho ProN",
     "MingLiU", serif;
   color: #222;
 }
@@ -220,22 +250,28 @@ h6 {
   margin-bottom: 1rem;
   font-weight: 400;
 }
+
 h1 {
   margin-bottom: 2rem;
   font-size: 2.2rem;
 }
+
 h2 {
   font-size: 2rem;
 }
+
 h3 {
   font-size: 1.7rem;
 }
+
 h4 {
   font-size: 1.5rem;
 }
+
 h5 {
   font-size: 1.3rem;
 }
+
 h6 {
   font-size: 1.1rem;
 }
@@ -246,18 +282,23 @@ h6 {
     font-size: 2.2rem;
     margin-bottom: 2rem;
   }
+
   h2 {
     font-size: 2rem;
   }
+
   h3 {
     font-size: 1.7rem;
   }
+
   h4 {
     font-size: 1.5rem;
   }
+
   h5 {
     font-size: 1.3rem;
   }
+
   h6 {
     font-size: 1.1rem;
   }
@@ -277,6 +318,7 @@ a {
   transition: color 0.4s;
   border-bottom: 1px dotted red;
 }
+
 a:hover {
   color: #b1b1b1;
   //text-decoration: underline;
@@ -309,6 +351,7 @@ input[type="button"] {
   cursor: pointer;
   box-sizing: border-box;
 }
+
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
@@ -323,6 +366,7 @@ input[type="button"]:focus {
   border-color: #888;
   outline: 0;
 }
+
 .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,
@@ -332,6 +376,7 @@ input[type="button"].button-primary {
   background-color: #33c3f0;
   border-color: #33c3f0;
 }
+
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -359,13 +404,15 @@ input[type="password"],
 textarea,
 select {
   height: 38px;
-  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  padding: 6px 10px;
+  /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #d1d1d1;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box;
 }
+
 /* Removes awkward default styles on some inputs for iOS */
 input[type="email"],
 input[type="number"],
@@ -379,11 +426,13 @@ textarea {
   -moz-appearance: none;
   appearance: none;
 }
+
 textarea {
   min-height: 65px;
   padding-top: 6px;
   padding-bottom: 6px;
 }
+
 input[type="email"]:focus,
 input[type="number"]:focus,
 input[type="search"]:focus,
@@ -396,21 +445,25 @@ select:focus {
   border: 1px solid #33c3f0;
   outline: 0;
 }
+
 label,
 legend {
   display: block;
   margin-bottom: 0.5rem;
   font-weight: 600;
 }
+
 fieldset {
   padding: 0;
   border-width: 0;
 }
+
 input[type="checkbox"],
 input[type="radio"] {
   display: inline;
 }
-label > .label-body {
+
+label>.label-body {
   display: inline-block;
   margin-left: 0.5rem;
   font-weight: normal;
@@ -442,7 +495,8 @@ li {
 code {
   font-family: "PT Mono", "Inconsolata", "Courier New", monospace;
   font-size: 90%;
-  vertical-align: 7%; /*middle;*/
+  vertical-align: 7%;
+  /*middle;*/
   padding: 0.1rem 0.1rem;
   margin: 0 0.1rem;
   white-space: nowrap;
@@ -450,7 +504,8 @@ code {
   border: 1px solid #e1e1e1;
   border-radius: 2px;
 }
-pre > code {
+
+pre>code {
   display: block;
   padding: 1rem 1.5rem;
   white-space: pre;
@@ -497,13 +552,16 @@ p {
   width: 100%;
   box-sizing: border-box;
 }
+
 .u-max-full-width {
   max-width: 100%;
   box-sizing: border-box;
 }
+
 .u-pull-right {
   float: right;
 }
+
 .u-pull-left {
   float: left;
 }
