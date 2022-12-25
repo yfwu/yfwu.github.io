@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .DS_store
 .jekyll-cache
+Gemfile
+Gemfile.lock
+css.bak
