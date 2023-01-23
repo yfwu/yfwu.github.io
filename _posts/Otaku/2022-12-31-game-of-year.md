@@ -4,7 +4,7 @@ layout: post
 category: Otaku
 ---
 
-今年 TGA 2022 頒獎給 Elden Ring（艾爾登法環），個人覺得實至名歸。今年因為準備考試，遊戲沒有玩那麼多。不過，也來把我今年玩樂的遊戲稍微寫一些記錄。一些小黃油當然就不寫了。
+今年 TGA 2022 頒獎給 Elden Ring（艾爾登法環），個人覺得實至名歸。今年因為準備考試，遊戲沒有玩那麼多。不過，也來稍微記錄我今年玩過的大作。一些小黃油當然就不寫了。
 
 ![Ranni](/assets/img/blog-Ranni.jpeg)
 圖：Unless of course...thou shouldst take the crown?
@@ -15,7 +15,7 @@ category: Otaku
 
 ## Elden Ring 艾爾登法環
 
-其實這是我第一次接觸魂系遊戲。經過上百小時的奮戰（專科考試 & 研究進度：哭）。一開始玩的時候什麼攻略都沒看，選了個武士，在史東威爾城前放棄。看了一些攻略後以法師身分重啟，後來慢慢往魔劍士的方向升級，才算找到了遊戲的樂趣餓。目前卡在野獸祭司的九個死根滅除任務，希望能完成它們再去挑戰黑劍瑪利喀斯（Maliketh）。
+其實這是我第一次接觸魂系遊戲。經過上百小時的奮戰（專科考試 & 研究進度：哭）。一開始玩的時候什麼攻略都沒看，選了個武士，在史東威爾城前放棄。看了一些攻略後以法師身分重啟，後來慢慢往魔劍士的方向升級，才算找到了遊戲的樂趣。目前卡在野獸祭司的九個死根滅除任務，希望能完成它們再去挑戰黑劍瑪利喀斯（Maliketh）。
 
 ## Control
 
@@ -27,10 +27,11 @@ category: Otaku
 
 ## 展望 2023
 
+- 升級版的 Witcher III
 - [Zachtronics](https://www.zachtronics.com) 的遊戲，例如 TIS-100 / Shenzhen I/O
 - [Turing Compete](https://turingcomplete.game)
 - S.T.A.L.K.E.R. 系列
 - 隻狼
 - 歧路旅人 1 & 2
 - Alan Wake 及其續作
-- 即將上市的：哈利波特、薩爾達
+- 即將上市的：哈利波特、薩爾達王國之淚
