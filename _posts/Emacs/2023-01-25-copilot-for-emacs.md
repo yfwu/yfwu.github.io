@@ -12,7 +12,9 @@ Github Copilot 預設提供 Jetbrain IDE / VS Code / Neovim 這三家官方套�
 
 ```lisp
 (package! copilot
-  :recipe (:host github :repo "zerolfx/copilot.el" :files ("*.el" "dist")))
+  :recipe (:host github 
+           :repo "zerolfx/copilot.el"
+           :files ("*.el" "dist")))
 ```
 
 以及在 `.doom.d/config.el` 中添加 hook 如下：
