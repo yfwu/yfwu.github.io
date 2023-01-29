@@ -47,7 +47,7 @@ success: function (data) {
         .replaceAll("/", "-");
 
         const template = `<p>${dateStr} ${content}</p>`;
-        document.body.insertAdjacentHTML("beforeend", template);
+        document.body.insertAdjacentHTML("afterbegin", template);
     });
 },
 });
