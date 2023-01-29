@@ -6,6 +6,9 @@ permalink: /gts/
 
 This page converts my ActivityPub [feed](https://yfwu.org/@yfwu/feed.rss) from [yfwu.org](https://yfwu.org/@yfwu) to a static page. It is written in jQuery.
 
+<div id="content">
+</div>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js">
 </script>
 <script>
@@ -47,7 +50,7 @@ success: function (data) {
         .replaceAll("/", "-");
 
         const template = `<p>${dateStr} ${content}</p>`;
-        document.body.insertAdjacentHTML("afterbegin", template);
+        $(template).appendTo("#content");
     });
 },
 });
