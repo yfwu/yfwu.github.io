@@ -4,7 +4,7 @@ title: "ActivityPub feed"
 permalink: /gts/
 ---
 
-This page converts my ActivityPub [feed](https://yfwu.org/@yfwu/feed.rss) from [yfwu.org](https://yfwu.org/@yfwu) to a static page. It is written in jQuery.
+> This page converts my ActivityPub [feed](https://yfwu.org/@yfwu/feed.rss) from [yfwu.org](https://yfwu.org/@yfwu) to a static page using jQuery.
 
 <div id="content">
 </div>
@@ -49,7 +49,7 @@ success: function (data) {
         .toLocaleString("zh", { hour12: false })
         .replaceAll("/", "-");
 
-        const template = `<p>${dateStr} ${content}</p>`;
+        const template = `<p>${dateStr}</br>${content}</p>`;
         $(template).appendTo("#content");
     });
 },
