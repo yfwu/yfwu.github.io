@@ -4,7 +4,7 @@ title: "ActivityPub feed"
 permalink: /gts/
 ---
 
-> This page converts my ActivityPub [feed](https://yfwu.org/@yfwu/feed.rss) from [yfwu.org](https://yfwu.org/@yfwu) to a static page using jQuery.
+> This jQuery-powered page converts my ActivityPub [feed](https://yfwu.org/@yfwu/feed.rss) from my microblog at [yfwu.org](https://yfwu.org/@yfwu) to a static page locally.
 
 <div id="content">
 </div>
