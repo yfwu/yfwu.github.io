@@ -20,22 +20,22 @@ category: Obsidian
 
 ## Obsidian Canvas
 
-在 Heptabase 掀起一股筆記架構視覺化的潮流後，Obsidian 那中看不中用的知識網路功能被深切的檢討。於是在正式版發布沒多久，Obsidian 就複製出了接近全功能的 [Obsidian Canvas](https://obsidian.md/canvas)。由於前一陣子 Heptabase 有宣佈了月費鎖定方案，所以我就訂購了一個月，看看到底有什麼神奇的地方。經過我一個功能一個功能的比對，Canvas 還是有一部分的缺點跟差異，列舉如下：
+在 Heptabase 掀起一股筆記架構視覺化的潮流後，Obsidian 那中看不中用的知識網路功能被深切的檢討。於是在正式版發布沒多久，Obsidian 就複製出了接近全功能的 [Obsidian Canvas](https://obsidian.md/canvas)。由於前一陣子 Heptabase 有宣佈了月費鎖定方案，所以我就訂購了一個月試用。經過我一個功能一個功能的比對，Canvas 還是有一部分的缺點跟差異，列舉如下：
 
 - 複製部分筆記成為新卡片這個功能在 Heptabase 中做的比 Obsidian 直觀很多。在 Obsidian 中，會需要 refactor 這個模組，設定好後，可以獲得一套快捷鍵，並要求以選取段落的首行作為檔名。
 - Obsidian canvas 無法真正地讓兩則筆記關聯起來，所以沒有辦法像 heptabase 那樣回溯筆記創建的場景。
-- 操作體驗上，Heptabase 的體驗相對滑順。
+- 操作體驗上，Heptabase 相對滑順。
 
-最多人詬病的就是 Obsidian 中所有筆記皆是檔案的作法，會讓創建長篇幅卡片相對麻煩（需要先設計檔名）。Obsidian 的解方除了剛剛提到的 refactor 外，還可以先寫成卡片並調整大小容納長文，待穩定後，可一鍵轉換成 markdown 筆記。到時候再來指定檔名，如此依來比較不會干擾整體性的思考。
+最多 hepta-cult 詬病的就是 Obsidian 中所有筆記皆是檔案的作法，會讓創建卡片相對麻煩（需要先設計檔名）。Obsidian 的解方除了剛剛提到的 refactor 外，還可以先寫成卡片並調整大小容納長文，待穩定後，可一鍵轉換成 markdown 筆記。到時候再來指定檔名，如此一來比較不會干擾整體性的思考。
 
 ## Obsidian Properties
 
-[Properties](https://help.obsidian.md/Editing+and+formatting/Properties) 是以前的 YAML front matter 的大進化版。提供了很多功能：
+[Properties](https://help.obsidian.md/Editing+and+formatting/Properties) 是以前的 YAML front matter 的大進化版。在不變動文字檔的情形下提供了很多功能：
 
 - 內建的 aliases、tags 支援：
 	- 位在 aliases 的內容可以當作檔名搜尋 - 所以我才能維持簡潔的 citation key 檔名同時能快速搜尋我要的文件
-	- 位在 tags 內的內容會被視為同本文中的 tag 一樣的neirong
-- 支援下來式選單：可以跨文件的汲取同一個 front matter 內的內容，大幅強化了 dataview 的威力
-- 支援雙向連結：`[[]]` 現在可以視為項目的一部分。
+	- 位在 tags 內的內容會被視為同本文中的 tag
+- 支援下來式選單：可以跨文件的汲取多文件 front matter 內的內容，不擔心搞混，大幅強化了 dataview 的威力
+- 支援雙向連結：`[[]]` 現在可以視為文件的一部分
 
-在這個設計下，front matter 的玩法豐富了很多，也規避了早期命名重複的問題。關於雙連的部分，目前我則是還在摸索可以怎樣應用。
+在這個設計下，front matter 的玩法豐富了很多，也規避了命名重複的問題。關於雙向連結的部分，目前還在摸索。
