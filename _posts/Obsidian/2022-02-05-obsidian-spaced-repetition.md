@@ -54,15 +54,3 @@ WHERE contains(file.name, "2021-11")
 ```
 
 ![Collections](/assets/img/collections.png)
-
-## 搭配 Minimal theme 的 card view
-
-由於資料還不多，所以 gallary 還不漂亮。等比較完成再另外寫文章介紹。初步的作法是在筆記頁面添加 YAML Header 如下：
-
-```yaml
----
-cssClasses: cards
----
-```
-
-接著則用正常的 dataview 撈資料，即可打造出神奇的 gallery！
