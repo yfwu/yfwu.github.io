@@ -1,5 +1,5 @@
 ---
-title: LiquidText 使用筆記
+title: "LiquidText 使用筆記"
 category: Tools
 layout: post
 image: /assets/img/lt01.png

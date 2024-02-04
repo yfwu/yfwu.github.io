@@ -1,5 +1,5 @@
 ---
-title: 網頁對照翻譯書籤工具
+title: "網頁對照翻譯書籤工具"
 category: Tools
 layout: post
 ---
@@ -24,7 +24,7 @@ javascript:(function() {
         node.parentElement.insertBefore(copy, node.nextElementSibling);
         node.setAttribute('translate', 'no');
         node.setAttribute('class', 'notranslate');
-    } 
+    }
 })();
 ```
 
