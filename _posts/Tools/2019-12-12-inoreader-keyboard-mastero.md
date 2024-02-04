@@ -1,8 +1,7 @@
 ---
-title: 用 Keyboard Mastero 添加 Inoreader 鏈接
+title: "用 Keyboard Mastero 添加 Inoreader 鏈接"
 layout: post
 category: Tools
-image: /assets/img/inoreader.png
 ---
 
 我個人其實還有持續使用 RSS/Atom reader，一方面是我有不少來自 Twitter / Arch Linux CN 的網友，他們的部落格記錄很多有趣的事情（不管是就學、創業還是國外生活），另一方面是一些很有意思的社羣或產品官方部落格（例如 ElementaryOS、ReadCube 等），所以用閱讀器可以方便的把這些來源統統收納在一起。

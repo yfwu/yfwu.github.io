@@ -1,5 +1,5 @@
 ---
-title: Mochi 筆記軟體
+title: "Mochi 筆記軟體"
 layout: post
 category: Tools
 image: /assets/img/mochi.png

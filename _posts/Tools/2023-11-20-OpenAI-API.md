@@ -1,5 +1,5 @@
 ---
-title: 試玩 OpenAI 的 API
+title: "試玩 OpenAI 的 API"
 layout: post
 category: Tools
 ---
