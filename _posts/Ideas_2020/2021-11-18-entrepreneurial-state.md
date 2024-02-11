@@ -1,5 +1,5 @@
 ---
-title: "閱讀紀錄《打造創業型國家》"
+title: 閱讀記錄《打造創業型國家》
 category: Ideas
 layout: post
 ---
