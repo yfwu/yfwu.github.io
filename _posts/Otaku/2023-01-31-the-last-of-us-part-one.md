@@ -1,7 +1,10 @@
 ---
-title: "遊戲：最後生還者 第一章"
+title: 遊戲：最後生還者 第一章
 layout: post
 category: Otaku
+date: 2023-01-31
+tags:
+  - PlayStation
 ---
 
 四年前買 PS4 pro 便同時買了「最後生還者 Remake」；遊戲初期有些悶，不過後面進入劇情後搭配上緊張刺激的戰鬥，玩起來欲罷不能。後來第二章（part II）出來後也是早早預定。
