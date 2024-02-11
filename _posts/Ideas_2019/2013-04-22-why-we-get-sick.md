@@ -1,5 +1,5 @@
 ---
-title: "閱讀紀錄《生病，生病，WHY？》"
+title: 閱讀記錄《生病，生病，WHY？》
 category: Ideas
 layout: post
 ---

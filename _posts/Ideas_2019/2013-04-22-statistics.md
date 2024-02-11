@@ -1,5 +1,5 @@
 ---
-title: "閱讀紀錄《統計，改變了世界》"
+title: 閱讀記錄《統計，改變了世界》
 category: Ideas
 layout: post
 ---
