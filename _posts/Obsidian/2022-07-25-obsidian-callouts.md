@@ -16,6 +16,11 @@ category: Obsidian
 > $$ e^{i \pi} + 1 = 0. $$
 ```
 
+
+> [!INFO]
+> This is a callout block. It supports internal link and LaTeX
+> $$ e^{i \pi} + 1 = 0. $$
+
 ![blog-obsidian-callout.png](/assets/img/blog-obsidian-callout.png)
 
 - 有 12 種風格（顏色）
@@ -24,7 +29,7 @@ category: Obsidian
 
 ## Notion like table
 
-[Notion-like table](https://github.com/trey-wallis/obsidian-notion-like-tables) 搭配另一個著名的模組 Advanced Table，可讓 Obsidian 上的表格編輯和瀏覽體驗變的很好。兩者目前操作上並沒有看到特別衝突的地方。合併使用後，在表內容的排序（sorting）和過濾（filtering）上更加的方便。除了一般性的文字、數字儲存格（number cell）外，還有渲染標籤儲存格（tag cell）、查核表以及 back-link 的能力。目前版本是 4.2 版。目前開發者正在著力讓 live preview mode 下更好用，以及支援一筆記多表格（目前只支援一個表格。
+[Notion-like table](https://github.com/trey-wallis/obsidian-notion-like-tables) 搭配另一個著名的模組 Advanced Table，可讓 Obsidian 上的表格編輯和瀏覽體驗變的很好。兩者目前操作上並沒有看到特別衝突的地方。合併使用後，在表內容的排序（sorting）和過濾（filtering）上更加的方便。除了一般性的文字、數字儲存格（number cell）外，還有渲染標籤儲存格（tag cell）、查核表以及 back-link 的能力。目前版本是 4.2 版。目前開發者正在著力讓 live preview mode 下更好用，以及支援一筆記多表格（目前只支援一個表格）。
 
 ## Omnisearch
 
