@@ -16,11 +16,6 @@ category: Obsidian
 > $$ e^{i \pi} + 1 = 0. $$
 ```
 
-
-> [!INFO]
-> This is a callout block. It supports internal link and LaTeX
-> $$ e^{i \pi} + 1 = 0. $$
-
 ![blog-obsidian-callout.png](/assets/img/blog-obsidian-callout.png)
 
 - 有 12 種風格（顏色）
