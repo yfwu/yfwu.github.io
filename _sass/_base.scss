@@ -9,6 +9,31 @@
 
 @import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap");
+
+@font-face {
+  font-family: 'Iosevka YFWU';
+  src: url('../fonts/iosevka-yfwu-regular.ttf') format('truetype'),
+       url('../fonts/iosevka-yfwu-italic.ttf') format('truetype'),
+       url('../fonts/iosevka-yfwu-oblique.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Iosevka YFWU';
+  src: url('../fonts/iosevka-yfwu-italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Iosevka YFWU';
+  src: url('../fonts/iosevka-yfwu-oblique.ttf') format('truetype');
+  font-weight: normal;
+  font-style: oblique;
+}
+
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 - Grid
@@ -231,7 +256,7 @@ body {
   font-weight: 400;
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-family: "PT Serif", "Noto Serif TC", "MingLiU", serif;
+  font-family: "Iosevka YFWU", "Roboto Slab", "Noto Serif TC", "MingLiU", serif;
   color: #222;
 }
 
