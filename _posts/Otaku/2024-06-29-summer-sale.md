@@ -12,7 +12,6 @@ tags:
 	- Manufactoria
 	- Neon Noodles
 	- The signal state
-	- Ricochet
 	- Word factori
 - Two point campus
 - Froza Horizon 4 - 特價的前代大世界賽車
