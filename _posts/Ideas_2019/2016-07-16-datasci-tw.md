@@ -16,7 +16,7 @@ layout: post
     - 現實情境是 [logistic growth model](https://services.math.duke.edu/education/ccp/materials/diffeq/logistic/logi1.html) = 資源到頂時，競爭最激烈；而擁有較多資源的個體，對於資源較少的個體競爭優勢更明顯，從而導致分布不均！
   - 用 「new articles per unit time」 來測量維基百科，發現發展大不如前。這樣的結論，對嗎？
   - 其實人類的整體知識是增長的：「carrying capacity as a function of time」！但，如何評估上述的議題呢？目前這還沒有答案，值得去研究依然持續增長的 logistic growth model。
-  - 但是就算知道問題，維基基金會卻說「That's interesting」 XD 沒辦法造成 impact。
+  - 但是就算知道問題，維基基金會卻說「That's interesting」 ，沒辦法造成 impact。
 - Case 2: Google+ Communities
   - 最難評估的是一開始增長時的模型
   - 問卷：「_What do people get out of online communities?_」有人說，參加社群的目的是為了得到「資訊 information consumption」，有人要得到的是「連結 social ties」。這是兩種不同的假說。怎麼驗證呢？
@@ -71,7 +71,7 @@ layout: post
 謝宗震：DSP 智庫驅動 [PPT](http://www.slideshare.net/tw_dsconf/ss-64076745)
 
 - 前測
-  - 前測的概念跟 baseline demographic 的概念有點像 XD 了解到分組之間並沒有差異，之後再隨機分派
+  - 前測的概念跟 baseline demographic 的概念有點像，了解到分組之間並沒有差異，之後再隨機分派
   - 醫學研究上市是要先分組才了解沒有差異？
 - 三個案例
   - 如何消滅貧窮
@@ -134,7 +134,7 @@ layout: post
   - 實際上，因為交易次數遠小於收斂到平均值需要的次數，所以交易結果受隨機影響的機率影響極大。
 - 槓桿空間模型（Leverage space model）：睹小賭分散，報酬提升
 
-感想：這種策略交易比較少接觸，挺有趣的。不考慮回測結果能不能代表未來數據，單純從資料科學的角度來說，這樣的推論也是很有邏輯性 XD 回家再來好好研究這份講義跟 2014 年的那一篇。結論：多玩幾場，每場派出少一些的資金，讓報酬率可以配上最佳化後的數學
+感想：這種策略交易比較少接觸，挺有趣的。不考慮回測結果能不能代表未來數據，單純從資料科學的角度來說，這樣的推論也是很有邏輯性。回家再來好好研究這份講義跟 2014 年的那一篇。結論：多玩幾場，每場派出少一些的資金，讓報酬率可以配上最佳化後的數學
 
 ## 銀行資料這樣玩
 
@@ -156,7 +156,7 @@ layout: post
   - 金額：潛在服務範圍年收入為多少？分行佔有了多少？
 - 衍生性金融商品的推薦？
 
-感想：發現沒甚麼特別的內容 XD
+感想：發現沒甚麼特別的內容。
 
 ## How to Approach Data Science Problems from Start to End
 
