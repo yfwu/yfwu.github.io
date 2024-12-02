@@ -13,6 +13,7 @@ tags:
 | Before                                                                                                                                                                                        | After                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
 | Again noted are multiple peripherally enhancing complex peri-pancreatic collections with thickened and irregular walls, which have not changed in size or configuration since the prior exam. | Unchanged complex peri-pancreatic collections. |
+
 舉了不少例子，包括不要使用主觀或動作性的詞彙（noted、visualized），直接書寫事實。還有實用表列來代替堆疊多個類似敘述。
 
 另一個重要的是 impression 的書寫原則，應以「臨床可操作的（actionable）」為主。重複影像發現無助於臨床工作，儘管看似降低了放射科醫師被告的風險。另一個很難拿捏的部分是變相指導臨床醫師，這個只能靠個人從中摸索，或者採用較保守的詞彙。
