@@ -10,9 +10,9 @@ tags:
 
 在影像學發現部分，文中舉了不少例子闡述如何修改過長且不必要的敘述，例如：
 
-| Before                                                                                                                                                                                        | After                                          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
-| Again noted are multiple peripherally enhancing complex peri-pancreatic collections with thickened and irregular walls, which have not changed in size or configuration since the prior exam. | Unchanged complex peri-pancreatic collections. |
+Before: Again noted are multiple peripherally enhancing complex peri-pancreatic collections with thickened and irregular walls, which have not changed in size or configuration since the prior exam.
+
+After: Unchanged complex peri-pancreatic collections.
 
 舉了不少例子，包括不要使用主觀或動作性的詞彙（noted、visualized），直接書寫事實。還有實用表列來代替堆疊多個類似敘述。
 
@@ -26,6 +26,6 @@ tags:
 
 下面是同一個病人，去年跟今年打得報告（在分頁開啟可看大圖）：
 
-![Diff](blog-reports.png)
+![Diff](/assets/img/blog-reports.png)
 
 現在數字不打了，main/other finding 不區分了，全部使用短句。唉，最大原因是科裡主管突然非常要求時效，居然是三天內「必須」完成。可是我雜事（切片、特殊攝影、管路）甚多，怎麼可能週一做的檢查（25 ～ 30 份左右的電腦斷層）週四就清得乾乾淨淨？
