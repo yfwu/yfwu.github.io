@@ -6,7 +6,7 @@ date: 2025-02-06
 tags:
   - ChatGPT
 ---
-一月 OpenAI 遭到 DeepSeek R1 突襲，除了 Nvidia 股價跌了一波，也讓大家更加懷疑 OpenAI 到底護城河有多寬。於是就在 R1 發布沒多久，OpenAI 接連宣布開放十二月曝光的 o3 系列模型的 mini 版本，更在幾天後接連宣布了 Deep Research 工具。
+一月 OpenAI 遭到 DeepSeek R1 突襲，除了 Nvidia 股價跌了一波，也讓大家更加懷疑 OpenAI 到底護城河有多寬。於是就在 R1 發布沒多久，OpenAI 接連宣布開放十二月曝光的 o3 系列的 mini 版本，更接連宣布了 Deep Research 工具。
 
 其實 Google 在稍早也宣布了一個同名工具，但是不知為何，使用人並不多也沒有燃起什麼熱情。這次宣布倒像是給很多 AI 狂熱者打了生產力春藥，一時間我的牆上各種「十個必學技巧」再次洗版。我自己因為目前在做研究的關係，也是每天要跟 ChatGPT 討教數十次；看到 o3 跟 Deep Research，果斷升級到 Pro，享用無限量的高級功能。
 
