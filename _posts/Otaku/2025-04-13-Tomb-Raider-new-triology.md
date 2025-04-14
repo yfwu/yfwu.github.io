@@ -3,7 +3,8 @@ title: 《古墓奇兵》新三部曲
 category: Otaku
 layout: post
 date: 2025-04-13
-tags:
+tags: 
+image: /assets/img/blog-shadow-TM.jpeg
 ---
 這一個半月把《古墓奇兵》新三部曲玩完了，分別是
 
@@ -13,10 +14,10 @@ tags:
 
 各別玩了 20、17、17 小時。
 
-![[blog-rise-TR.jpeg]]
+![](/assets/img/blog-rise-TR.jpeg)
 第二部的東正教古城
 
-![[blog-shadow-TM.jpeg]]
+![](/assets/img/blog-shadow-TM.jpeg)
 第三部的印加密室
 
 主要是解謎、戰鬥、探索三合一的模式，同期的作品有 Uncharted 神秘海域，算是競爭關係，玩法頗為類似，不過 Tomb Raider 在虛擬歷史部分著墨較多，有很多古物可供搜集。
@@ -31,5 +32,5 @@ tags:
 2. 雖然戰鬥規模砲火隆隆好像很宏大，實際劇情都是繞著幾個人之間的小打小鬥，看了很奇怪。例如，第三部裡面的叛軍進攻，居然是幾個拿著長矛的小兵。Lara 幹掉了敵方一大堆雇傭兵，反派也是說教幾句就走人。
 3. 場景很漂亮，建模蠻精緻的。一個小問題是到處都是骷髏、乾屍或慘死的士兵，玩起來沒有那麼愉悅。
 
-![[blog-lara-croft.jpeg]]
+![](/assets/img/blog-lara-croft.jpeg)
 從戰鬥結果來說，Lara Croft 的體力值、戰鬥力都在她的兩位同行 - Nathan Drake 以及 Indiana Jones 之上，堪稱戰鬼一般的存在。
