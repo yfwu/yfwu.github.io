@@ -1,8 +1,9 @@
 ---
 title: 2023 日本旅行：淺草、迪士尼、吉卜力
-image: /assets/img/blog-asakusa.png
 category: Ideas
 layout: post
+date: 2023-08-29
+image: /assets/img/blog-asakusa.png
 ---
 湊了個四天假期去東京放鬆，稍微記錄一下旅程。主治醫師還不滿一年，工作都戰戰兢兢，深怕有所遺漏或者被比較資深的醫師嫌丟著工作不做。
 
