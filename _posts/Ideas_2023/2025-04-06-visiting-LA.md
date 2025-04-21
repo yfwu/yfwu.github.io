@@ -23,40 +23,41 @@ image: /assets/img/blog-disneyland.png
 
 以下是 Disneyland 我們玩到的設施：
 
-| **Attraction 名稱**                      | **地點**                   | **遊玩方式**     |
-| -------------------------------------- | ------------------------ | ------------ |
-| Star Wars: Rise of the Resistance      | Star Wars: Galaxy’s Edge | 互動式乘車體驗、劇情冒險 |
-| Millennium Falcon: Smugglers Run       | Star Wars: Galaxy’s Edge | 駕駛模擬互動體驗     |
-| Big Thunder Mountain Railroad          | Frontierland             | 雲霄飛車         |
-| Buzz Lightyear Astro Blasters          | Tomorrowland             | 射擊遊戲乘車體驗     |
-| Haunted Mansion                        | New Orleans Square       | 室內鬼屋乘車體驗     |
-| Mark Twain Riverboat                   | Frontierland             | 河上蒸汽船遊覽      |
-| Star Tours – The Adventures Continue   | Tomorrowland             | 3D模擬太空飛行體驗   |
-| The Many Adventures of Winnie the Pooh | Critter Country          | 室內乘車體驗       |
-| Pirates of the Caribbean               | New Orleans Square       | 室內水道乘船冒險     |
-| Autopia                                | Tomorrowland             | 戶外自駕車體驗      |
-| Mickey & Minnie’s Runaway Railway      | Mickey’s Toontown        | 動畫主題室內乘車體驗   |
-| Mickey’s House and Meet Mickey Mouse   | Mickey’s Toontown        | 與米奇互動合影      |
-| Disneyland Railroad                    | 園區多個站點                   | 園區蒸汽火車巡遊     |
-| Storytelling at Royal Theatre          | Fantasyland              | 現場互動式故事表演    |
+| **Attraction 名稱**                      | **遊玩方式**     |
+| -------------------------------------- | ------------ |
+| Star Wars: Rise of the Resistance      | 互動式乘車體驗、劇情冒險 |
+| Millennium Falcon: Smugglers Run       | 駕駛模擬互動體驗     |
+| Big Thunder Mountain Railroad          | 雲霄飛車         |
+| Buzz Lightyear Astro Blasters          | 射擊遊戲乘車體驗     |
+| Haunted Mansion                        | 室內鬼屋乘車體驗     |
+| Mark Twain Riverboat                   | 河上蒸汽船遊覽      |
+| Star Tours – The Adventures Continue   | 3D模擬太空飛行體驗   |
+| The Many Adventures of Winnie the Pooh | 室內乘車體驗       |
+| Pirates of the Caribbean               | 室內水道乘船冒險     |
+| Autopia                                | 戶外自駕車體驗      |
+| Mickey & Minnie’s Runaway Railway      | 動畫主題室內乘車體驗   |
+| Mickey’s House and Meet Mickey Mouse   | 與米奇互動合影      |
+| Disneyland Railroad                    | 園區蒸汽火車巡遊     |
+| Storytelling at Royal Theatre          | 現場互動式故事表演    |
 
 ## 04-08 Adventure Park
 
 底下也是按照順序列出我們去玩的項目，表演則放在最後。
 
-| Attraction 名稱                                   | 地點                               | 遊玩方式        |
-| ----------------------------------------------- | -------------------------------- | ----------- |
-| Radiator Springs Racers                         | Cars Land                        | 賽車競速、乘車體驗   |
-| Grizzly River Run                               | Grizzly Peak                     | 激流泛舟、水上設施   |
-| The Little Mermaid – Ariel’s Undersea Adventure | Paradise Gardens Park            | 室內乘車體驗、音樂劇場 |
-| Monsters, Inc. Mike & Sulley to the Rescue!     | Hollywood Land                   | 室內乘車體驗      |
-| Silly Symphony Swings                           | Paradise Gardens Park            | 空中旋轉鞦韆      |
-| Incredicoaster                                  | Pixar Pier                       | 雲霄飛車        |
-| WEB SLINGERS: A Spider-Man Adventure            | Avengers Campus                  | 互動射擊遊戲      |
-| Guardians of the Galaxy – Mission: BREAKOUT!    | Avengers Campus / Hollywood Land | 自由落體、室內乘車   |
-| Soarin’ Over California                         | Grizzly Peak                     | 模擬飛行體驗      |
-| Mickey’s PhilharMagic                           | Hollywood Land                   | 3D 音樂動畫秀    |
-| Paradise Garden Bandstand                       | Paradise Gardens Park            | 戶外現場音樂表演    |
+| Attraction 名稱                                   | 遊玩方式        |
+| ----------------------------------------------- | ----------- |
+| Radiator Springs Racers                         | 賽車競速、乘車體驗   |
+| Grizzly River Run                               | 激流泛舟、水上設施   |
+| The Little Mermaid – Ariel’s Undersea Adventure | 室內乘車體驗、音樂劇場 |
+| Monsters, Inc. Mike & Sulley to the Rescue!     | 室內乘車體驗      |
+| Silly Symphony Swings                           | 空中旋轉鞦韆      |
+| Incredicoaster                                  | 雲霄飛車        |
+| WEB SLINGERS: A Spider-Man Adventure            | 互動射擊遊戲      |
+| Guardians of the Galaxy – Mission: BREAKOUT!    | 自由落體、室內乘車   |
+| Soarin’ Over California                         | 模擬飛行體驗      |
+| Mickey’s PhilharMagic                           | 3D 音樂動畫秀    |
+| Paradise Garden Bandstand                       | 戶外現場音樂表演    |
+
 題外話，可愛的維尼熊頭在兩個園區個別只有一間店賣。冒險園區是在摩天輪對面的 Inside out 商店裡面販售。可以掛在髮夾上。
 
 ![Disney](/assets/img/blog-disneyland.png)
