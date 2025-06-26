@@ -25,16 +25,16 @@ tags:
 目前在代理部分還有很多需要掌握的知識，遑論引入 MCP 到我的日常工作。感覺這些工具改朝換代的速度極快，一般人如果不每月花個把小時學習，很快就會被拋下（雖然是這樣，但拋下了又如何呢？）
 
 附上一個我的代理使用畫面截圖：
-![[blog-Junie.png]]
+![Junie & Pycharm](/assets/img/blog-Junie.png)
 原本只有兩個寫的很鳥的 Jupyter notebook，通過 Junie 跟 Codex 運行了超過 35 個任務，彙整了我自己的醫院以及進修醫院的資料集，包含了處理、測試、檢視、文檔的完整專案。
 
-## Context prompting
+## Context engineering
 
 另一個最近接觸的概念。隨著具備思考能力的大窗口模型日益普及（例如 GPT-o3），短而急促、密集的交互已經被證實是低效的操作模式，那種「你是個放射科專家」的奇異 prompt engineering 也早已不再需要。實務上，需要學習的是如何一次性的把足夠的資訊、預期的後續動作及關聯文檔提供給思考模型以獲得最大效益。
 
 > Context engineering is the delicate art and science of filling the context window with just the right information for the next step. (Twitter user @Karpathy)
 
-LangChain 也有一篇文章 [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/) 討論。動態情境未必要要由 AI 工具來控制；它更像是工程師精心控制的操作台，一如冷氣遙控器 - 常用按鈕要單純，但能快速啟用複雜功能。
+LangChain 也有一篇文章 [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/) 討論。動態情境未必要要由 AI 工具來控制；它更像是工程師精心設計的操作台，一如冷氣遙控器 - 常用按鈕要單純，但能快速啟用複雜功能。
 
 > Most of the time when an agent is not performing reliably the underlying cause is that the appropriate context, instructions and tools have not been communicated to the model.
 
