@@ -10,9 +10,9 @@ tags:
 ---
 最近提升各種代理工具的使用量。約在一、兩個月前，Github Copilot 與 JetBrains 加入了此類功能，但完整度仍不及較早推出的 Cursor 及 Windsurf。不過上述軟體需額外訂閱，而我已購買多項 AI 服務，實在無力負擔更多。Github Copilot 的代理屬輕量級，可自行選擇模型，例如 Claude Sonnet 4。JetBrains 則由雲端任務分派器自動挑選最合適的模型。
 
-兩套工具我都在使用：本機開發時我偏好 JetBrains，因其在程式碼分析與型別錯誤偵測上提供較多提示；VS Code 搭配 Copilot 的組合則適合連線遠端伺服器。目前最常利用代理的功能，是將原先寫在 Jupyter Notebook 的實驗腳本重構為較具結構的專案，建立 test、src、script、data、config 等資料夾與 requirements 檔案。這些工作並不複雜，但若由我手動處理耗時甚多且容易出錯，交給 LLM 則可多工、快速完成。其他常用功能還包括自動補上型別註解、撰寫說明文件，以及檢查潛在錯誤並優化部分程式碼。
+兩套工具我都有使用：本機開發時我偏好 JetBrains，因其在程式碼分析與型別錯誤偵測上提供較多提示；VS Code 搭配 Copilot 的組合則適合連線遠端伺服器。目前最常利用代理的功能，是將原先寫在 Jupyter Notebook 的實驗腳本重構為較具結構的專案，建立 test、src、script、data、config 等資料夾與 requirements 檔案。這些工作並不複雜，但若由我手動處理耗時甚多且容易出錯，交給 LLM 則可多工、快速完成。其他常用功能還包括自動補上型別註解、撰寫說明文件，以及檢查潛在錯誤並優化部分程式碼。
 
-目前正在考慮是否購買 Claude Pro 來試試 Claude Code；但是非 Max 只能使用 Sonnet 3.7，這樣我還不如用 GitHub Copilot。直接運行於終端機（CLI）的代理，好處是不需要處理編輯器資訊及頁籤上下文，但是使用者要知道如何檢視返回的成果。
+目前正在考慮是否購買 Claude Max 來試試 Claude Code；但是非 Max 只能使用 Sonnet 3.7，這樣我還不如用 GitHub Copilot。直接運行於終端機（CLI）的代理，好處是不需要處理編輯器資訊及頁籤上下文，但是使用者要知道如何檢視返回的成果。
 
 而在雲端部分，因為我是 ChatGPT Pro 訂閱，所以有 Codex 可以用。Codex 內部的模型是 o3 特化版本，具備設置環境及上網安裝模組的功能，但模型本身不能連網。目前就是用來在移動中即可實現靈感、或要求整合性的除錯、文檔編寫。
 

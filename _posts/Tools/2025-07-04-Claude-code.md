@@ -10,7 +10,7 @@ tags:
 
 記得我曾經發過一文 [退訂 Claude](https://yfwu.dev/ideas/2024/11/09/Claude-unsubscription.html)，不過經過了大半年的變化，如今 Claude 今非昔比，已經具備了執行簡單程式、上網搜尋以及「Deep Research」的功能。來美國後因 ChatGPT o3 需求大增，加上想無限使用新功能，所以升級 Pro。但後來 Claude Code 崛起，過去兩個月也測試了 agentic editing，深感舒爽。然而 Codex 畢竟跑在雲端，無法接觸本地資料，來來回回貼錯誤修改始終搔不到癢處，遂在 Pro 本月續費前重啟 Claude 付費方案 Max 5x 看看。
 
-結果一用驚為天人！我知道 Claude code 不但能讀本地資料（圖片、PDF），還可以「先規劃後行動」，如同其他的 agentic editing 一樣，但是他的上下文工程（context engineering）做的甚好，同時也不像 Junie 只能用 Sonnet 4 並且無法「一個問題接著一個問題」的構建下去，Claude code 可以獨立運行一段很長時間、留下筆記並根據輸出修改程式，直到完成最初TODO 設定的目標。
+結果一用驚為天人！我知道 Claude code 不但能讀本地資料（圖片、PDF），還可以「先規劃後行動」，如同其他的 agentic editing 一樣，但是他的上下文工程（context engineering）做的甚好，同時也不像 Junie 只能用 Sonnet 4 並且無法「一個問題接著一個問題」的構建下去，Claude code 可以獨立運行一段很長時間、留下筆記並根據輸出修改程式，直到完成最初 TODO 設定的目標。
 
 ![Claude code](/assets/img/blog-Claude-code.png)
 
