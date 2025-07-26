@@ -6,7 +6,7 @@ date: 2025-07-10
 tags:
 ---
 
-說起來開通 Claude Code 才兩週，但有種當初學用 ChatGPT 的感覺。最近新學了：
+說起來開通 Claude Code 才兩週，但有種當初用 ChatGPT 的感覺。不過工具本身不再是聊天介面，同時也有很多複雜功能提升其工作能力，最近學了：
 
 1. 記錄重複使用的命令 [Slash commands](https://docs.anthropic.com/en/docs/claude-code/slash-commands)
 	1. 命令文本以 markdown 形式存在 `~/.claude/commands`
@@ -14,7 +14,7 @@ tags:
 2. 設置新推出的 hook 功能讓它說話（macOS say）
 3. 搭配 `git worktree` 來併行進行項目
 4. 讓 subagent 去閱讀程式碼獲取細節，這樣可以節約上下文空間
-5. TDD（test-driven development）的工作流程（測試、確認失敗、實作、驗證）
+5. TDD（test-driven development）流程：測試、確認失敗、實作、驗證
 
 ## 官方教學
 
@@ -22,7 +22,7 @@ tags:
 - 使用 `#` 來添加細節到 `CLAUDE.md`
 - 使用 `@` 來直接提示某個特定目錄或檔案，甚至可以要求使用 MCP
 - 使用 `think` 關鍵字來增強計劃性能 [Extended thinking tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)
-- 使用非交互模式 `--print` 搭配結構化輸出 `--output-format` 變成 CI/CD 工具
+- 使用非交互模式 `--print` 搭配結構化輸出 `--output-format`
 
 ## 快速專案
 
