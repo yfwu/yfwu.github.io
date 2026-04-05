@@ -1,5 +1,5 @@
 ---
-title: 美東旅行 - 費城、華盛頓特區
+title: 2025 美東旅行：費城、華盛頓特區
 category: Ideas
 layout: post
 date: 2025-07-20
