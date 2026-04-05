@@ -1,5 +1,5 @@
 ---
-title: LA 旅行 - 星光大道、迪士尼、The Broad
+title: 2025 美西旅行：星光大道、迪士尼、The Broad
 category: Ideas
 layout: post
 date: 2025-04-06
