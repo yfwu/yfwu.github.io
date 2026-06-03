@@ -10,8 +10,8 @@ title: YFWu's Blog
 email: yfwu@yfwu.org
 description: > # this means to ignore newlines until "baseurl:"
   在遙遠的邊陲小島住著一個不愛吃魚愛做夢的捕魚人
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yfwu.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yfwu.dev" # the base hostname & protocol for your site
 twitter_username: yfw3u
 github_username: yfwu
 
