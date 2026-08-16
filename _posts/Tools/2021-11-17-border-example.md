@@ -11,7 +11,6 @@ category: Tools
   margin: 1.5rem 0;
   padding: 1.1rem 1.25rem;
   border: 1px solid #D8DEE9;
-  border-left: 3px solid #5EBCBF;
   border-radius: 8px;
   background: #FFFFFF;
   overflow-wrap: anywhere;
@@ -36,7 +35,6 @@ category: Tools
   margin: 1.5rem 0;
   padding: 1.1rem 1.25rem;
   border: 1px solid #D8DEE9;
-  border-left: 3px solid #5EBCBF;
   border-radius: 8px;
   background: #FFFFFF;
   overflow-wrap: anywhere;
