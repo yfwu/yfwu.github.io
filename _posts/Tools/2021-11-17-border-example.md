@@ -6,16 +6,21 @@ category: Tools
 
 <style>
 .border {
-  margin: 1.5rem 0.5rem;
-  border: 1px solid;
+  box-sizing: border-box;
   display: block;
-  padding: 1rem 1rem;
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid #D8DEE9;
+  border-left: 3px solid #5EBCBF;
+  border-radius: 8px;
+  background: #FFFFFF;
+  overflow-wrap: anywhere;
 }
-.border p:last-child {
-  margin-bottom: 0;
+.border > :first-child {
+  margin-top: 0;
 }
-.border ul {
-  margin-bottom: 0;
+.border > :last-child {
+  margin-bottom: 0;
 }
 </style>
 
@@ -26,21 +31,26 @@ category: Tools
 ```css
 <style>
 .border {
-  margin: 1.5rem 0.5rem;
-  border: 1px solid;
+  box-sizing: border-box;
   display: block;
-  padding: 1rem 1rem;
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid #D8DEE9;
+  border-left: 3px solid #5EBCBF;
+  border-radius: 8px;
+  background: #FFFFFF;
+  overflow-wrap: anywhere;
 }
-.border p:last-child {
-  margin-bottom: 0; /* Remove margin at the bottom of the last paragraph */
+.border > :first-child {
+  margin-top: 0;
 }
-.border ul {
-  margin-bottom: 0; /* Remove margin at the bottom of the last paragraph */
+.border > :last-child {
+  margin-bottom: 0;
 }
 </style>
 ```
 
-使用 `<p class="border"></p>` 來包圍文字段落。舉個例子（使用《黑天鵝》）
+使用 `<div class="border"></div>` 來包圍文字段落。舉個例子（使用《黑天鵝》）
 
 <div class="border"><b>金句卡</b><br>
 你不知道的事比你知道的事情更加有意義。
