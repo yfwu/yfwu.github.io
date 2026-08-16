@@ -1,0 +1,237 @@
+/* Shared table and Obsidian-callout treatment for YFWu's Jekyll sites. */
+:root {
+  --paper: #FFFFFF;
+  --silver: #D8DEE9;
+  --graphite: #2E3440;
+  --teal: #5EBCBF;
+  --indigo: #81A1C1;
+  --emerald: #A3BE8C;
+  --amber: #EBCB8B;
+  --coral: #D08770;
+  --plum: #B48EAD;
+  --slate: #708090;
+  --content-rule: rgba(216, 222, 233, 0.82);
+}
+
+/* Tables remain usable without JavaScript; content-surfaces.js adds the
+   semantic scroll container and overflow hint when enhancement is available. */
+.article-content table,
+.post_content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  border: 1px solid var(--silver);
+  border-radius: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--paper);
+  -webkit-overflow-scrolling: touch;
+}
+
+.article-content .table-region,
+.post_content .table-region {
+  min-width: 0;
+  margin: 1.5rem 0;
+}
+
+.table-scroll__hint {
+  margin: 0 0 0.45rem;
+  color: var(--slate);
+  font-size: 1.2rem;
+  line-height: 1.4;
+  text-align: right;
+}
+
+.table-scroll__hint[hidden] {
+  display: none;
+}
+
+.table-scroll {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: auto;
+  border: 1px solid var(--silver);
+  border-radius: 8px;
+  background: var(--paper);
+  scrollbar-color: var(--slate) transparent;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-scroll:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+.table-scroll::-webkit-scrollbar {
+  height: 10px;
+}
+
+.table-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.table-scroll::-webkit-scrollbar-thumb {
+  border: 2px solid var(--paper);
+  border-radius: 999px;
+  background: var(--silver);
+}
+
+.article-content .table-scroll table,
+.post_content .table-scroll table {
+  display: table;
+  width: 100%;
+  min-width: 48rem;
+  max-width: none;
+  margin: 0;
+  overflow: visible;
+  border: 0;
+  border-radius: 0;
+}
+
+.article-content .table-scroll table.table--wide,
+.post_content .table-scroll table.table--wide {
+  min-width: 68rem;
+}
+
+.article-content table caption,
+.post_content table caption {
+  padding: 1.1rem 1.25rem;
+  color: var(--slate);
+  font-size: 0.88em;
+  text-align: left;
+  caption-side: top;
+}
+
+.article-content table th,
+.article-content table td,
+.post_content table th,
+.post_content table td {
+  padding: 1.1rem 1.25rem;
+  color: var(--graphite);
+  font-size: 0.94em;
+  line-height: 1.55;
+  text-align: left;
+  vertical-align: top;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.article-content table tr > :first-child,
+.post_content table tr > :first-child {
+  white-space: nowrap;
+}
+
+.article-content table thead th,
+.post_content table thead th {
+  border-bottom: 1px solid var(--silver);
+  background: var(--paper);
+  font-weight: 600;
+}
+
+.article-content table tr > * + *,
+.post_content table tr > * + * {
+  border-left: 1px solid rgba(216, 222, 233, 0.62);
+}
+
+.article-content table tbody tr + tr > *,
+.post_content table tbody tr + tr > * {
+  border-top: 1px solid var(--content-rule);
+}
+
+/* Runtime-enhanced Obsidian callouts. Ordinary blockquotes are untouched. */
+.callout {
+  margin: 1.5rem 0;
+  overflow: hidden;
+  border: 1px solid var(--silver);
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--graphite);
+}
+
+.callout__title {
+  display: block;
+  margin: 0;
+  padding: 1.1rem 1.25rem 0.4rem;
+  border: 0;
+  background: var(--paper);
+  color: var(--graphite);
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.callout__title:only-child {
+  padding-bottom: 1.1rem;
+}
+
+.callout__content {
+  padding: 0 1.25rem 1.1rem;
+}
+
+.callout__content > :first-child {
+  margin-top: 0;
+}
+
+.callout__content > :last-child {
+  margin-bottom: 0;
+}
+
+.callout__content > ul,
+.callout__content > ol {
+  padding-left: 1.5em;
+}
+
+details.callout > summary.callout__title {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+}
+
+details.callout > summary.callout__title::-webkit-details-marker {
+  display: none;
+}
+
+details.callout > summary.callout__title::after {
+  content: "+";
+  margin-left: auto;
+  color: var(--slate);
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+details.callout[open] > summary.callout__title::after {
+  content: "\2212";
+}
+
+@media (max-width: 550px) {
+  .article-content .table-scroll table,
+  .post_content .table-scroll table {
+    min-width: 46rem;
+  }
+
+  .article-content .table-scroll table.table--wide,
+  .post_content .table-scroll table.table--wide {
+    min-width: 64rem;
+  }
+
+  .article-content table th,
+  .article-content table td,
+  .post_content table th,
+  .post_content table td {
+    padding: 0.68em 0.76em;
+  }
+
+  .callout__title {
+    padding: 1rem 1.1rem 0.35rem;
+  }
+
+  .callout__content {
+    padding: 0 1.1rem 1rem;
+  }
+}
