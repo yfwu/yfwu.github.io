@@ -2,7 +2,9 @@
 
 source "https://rubygems.org"
 
-# GitHub Pages currently uses Ruby 3.x. Use Ruby 3+ for local builds.
-gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "nokogiri", "1.16.7"
+# Mirror the GitHub Pages build environment for local previews.
+# Dependency versions: https://pages.github.com/versions/
+gem "github-pages", "~> 233", group: :jekyll_plugins
+
+# Ruby 3+ no longer bundles WEBrick, which `jekyll serve` needs.
 gem "webrick", "~> 1.8"
