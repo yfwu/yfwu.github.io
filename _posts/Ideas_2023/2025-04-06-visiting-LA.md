@@ -5,7 +5,7 @@ layout: post
 date: 2025-04-06
 tags:
   - Disney
-image: /assets/img/blog-disneyland.png
+image: /assets/img/blog-disneyland.jpeg
 ---
 ## 04-06 星光大道
 
@@ -56,14 +56,14 @@ image: /assets/img/blog-disneyland.png
 
 題外話，可愛的維尼熊頭在兩個園區個別只有一間店賣。冒險園區是在摩天輪對面的 Inside out 商店裡面販售。可以掛在髮夾上。
 
-![Disney](/assets/img/blog-disneyland.png)
+![Disney](/assets/img/blog-disneyland.jpeg)
 冒險園區的閉園水舞秀非常精彩，前所未見！
 
 ## 04-09
 
 早上睡到自然醒之後離開旅館，搭火車返回洛杉磯市中心。今天計劃去 The Broad 美術館。美術館本身不用門票，但是需要上網預約。一樓很有名的無限鏡室也需要預約。美術館內有很多我們看不懂的現代美術作品，例如大名鼎鼎的氣球臘腸犬。
 
-![Broad](/assets/img/blog-broad.png)
+![Broad](/assets/img/blog-broad.jpeg)
 無限鏡室。
 
 參觀完美術館後，我們去吃了一頓 Subway，然後參觀附近的迪士尼音樂廳以及洛杉磯第一個爬坡纜車。回去之前路過聯合車站旁邊的小東京參觀了一下，但頗令人失望的，感覺就是個日本風的商店街。真正的日本移民或許是住在附近的社區內？
