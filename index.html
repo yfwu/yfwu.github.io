@@ -9,7 +9,7 @@ title: Home
     <article class="post_card post">
       <header class="post_header">
         <h1 class="post_title">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title}}</a>
         </h1>
         <!--<time class="post_date">{{ post.date | date: "%Y-%m-%d, %A" }}</time>-->
       </header>
@@ -18,12 +18,7 @@ title: Home
     </article>
     {% endfor %}
     <div class="pagination older-post">
-      <a href="./archivewoc"
-        ><data data-icon="ei-arrow-right"></data> Archive
-      </a>
+      <a href="{{ "/archivewoc" | relative_url }}">Archive &rarr;</a>
     </div>
   </div>
-
-  <link rel="me" href="https://twitter.com/yfw3u" />
-  <link rel="me" href="https://github.com/yfwu" />
 </div>

@@ -9,13 +9,11 @@ title: Archive Without Categories
     <table>
       {% for post in site.posts %}
 
-      <tr>
-        <div class="post_title">
-          <td width="130px">{{ post.date | date: "%F" }}&nbsp;&nbsp;</td>
-          <td>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-          </td>
-        </div>
+      <tr class="post_title">
+        <td class="archive_date">{{ post.date | date: "%F" }}</td>
+        <td>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </td>
       </tr>
 
       {% endfor %}
