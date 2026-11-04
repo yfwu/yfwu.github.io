@@ -3,7 +3,7 @@ title: 2023 日本旅行：淺草、迪士尼、吉卜力
 category: Ideas
 layout: post
 date: 2023-08-29
-image: /assets/img/blog-asakusa.png
+image: /assets/img/blog-asakusa.jpeg
 ---
 湊了個四天假期去東京放鬆，稍微記錄一下旅程。主治醫師還不滿一年，工作都戰戰兢兢，深怕有所遺漏或者被比較資深的醫師嫌丟著工作不做。
 
@@ -11,7 +11,7 @@ image: /assets/img/blog-asakusa.png
 
 早上先去了東京國立博物館，順便躲雨。看到了那尊很著名的咪咪眼外星人陶俑。快中午的時候下了大雷雨，躲在博物館內吃冰淇淋。下午放晴後去了雷門淺草寺、逛了寺前的仲見世通。中間吃了路口的梅園甜點。因為天氣還不錯，就順行走到了晴空塔。
 
-![](/assets/img/blog-asakusa.png)
+![](/assets/img/blog-asakusa.jpeg)
 
 ## Disneyland
 

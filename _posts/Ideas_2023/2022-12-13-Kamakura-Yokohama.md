@@ -2,7 +2,7 @@
 title: "2022 日本旅行：池袋、鎌倉、横浜、下北沢"
 layout: post
 category: Ideas
-image: /assets/img/blog-ueno-park.png
+image: /assets/img/blog-ueno-park.jpeg
 ---
 日期：2022-12-09 → 2022-12-12
 
@@ -16,14 +16,14 @@ image: /assets/img/blog-ueno-park.png
 
 先去看了大佛，在附近的另一個小佛寺吃了午餐，接著便搭江ノ島電鉄線去江之島。圖中經過了灌籃高手著名的平交道聖地，不過沒有下車拍照。江之島景色不錯，還可以隔著內海遠眺富士山。島上有很多餐廳佔據了天然的景點位。我們一直待到太陽下山。天色越暗、人潮竟然越來越多，大家都是要來看江之島海蠟燭的夜景。
 
-![Enoshima](/assets/img/blog-fuji.png)
+![Enoshima](/assets/img/blog-fuji.jpeg)
 圖：富士山
 
 ## 横浜
 
 我們的行程是從櫻木町出發，先穿過中國城去看鋼彈。午餐本來想要吃一些特色美食，最後不爭氣的吃了一間位在中國城、店員會講普通話的川菜料理。吃完後在市區內閒逛，去參觀跟《櫻花大戰》帝國大劇場幾乎一模一樣造型的橫濱開港紀念會館，不過竟然外牆在整修！
 
-![Yokohama port](/assets/img/blog-yokohama-port.png)
+![Yokohama port](/assets/img/blog-yokohama-port.jpeg)
 圖：鋼彈與橫濱港
 
 之後沿港口的舊軌道改建成的步道，穿越紅磚倉庫來到未來港，接著搭 2021 新蓋好的纜車回車站，結束一天在橫濱的行程。
@@ -32,7 +32,7 @@ image: /assets/img/blog-ueno-park.png
 
 起床後先去《櫻花大戰》主角相遇的上野公園閒晃。上次來的時候還不知道這個公園的重要性。雖然現在沒有櫻花可看，卻有很多美麗的銀杏。
 
-![Ueno Park](/assets/img/blog-ueno-park.png)
+![Ueno Park](/assets/img/blog-ueno-park.jpeg)
 圖：上野公園美麗的銀杏。
 
 接著去下北澤遊覽。下北澤的特色就是文青、古著、咖喱。老弟目標是去《孤獨搖滾》聖地拍照，我是隨性逛逛，體驗一下這個令東京年輕人嚮往的城區到底有什麼魅力。去參觀了幾件古著店，感覺不太像是我會感興趣的衣服類型。
