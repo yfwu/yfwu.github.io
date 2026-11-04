@@ -12,20 +12,43 @@ description: > # this means to ignore newlines until "baseurl:"
   在遙遠的邊陲小島住著一個不愛吃魚愛做夢的捕魚人
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yfwu.dev" # the base hostname & protocol for your site
-twitter_username: yfw3u
 github_username: yfwu
+locale: zh_TW # used by jekyll-seo-tag for og:locale (was falling back to en_US)
+
+# jekyll-seo-tag reads these (it does not use `twitter_username`)
+author:
+  name: Yu-Fu Wu
+  twitter: yfw3u
+twitter:
+  username: yfw3u
+  card: summary
 
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Third-party services
-# just leave someone empty to disable it
-# google_analytics:
-disqus_shortname:
+# GitHub Pages injects jekyll-theme-primer unless a theme is set explicitly.
+# This site ships its own layouts/styles, so disable it (otherwise an unused
+# assets/css/style.css from primer is published).
+theme: null
+
+# Setting `exclude` replaces Jekyll's default list, so the defaults are repeated.
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+
 # used this for post_excerpt at index_page
 # excerpt_separator: <!--description-->
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

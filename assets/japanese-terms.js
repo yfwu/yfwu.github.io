@@ -1,6 +1,6 @@
 (function () {
   var terms = ["新サクラ大戦", "サクラ大戦"];
-  var selector = ".article-content, .artilce_title, .post_title, .post-list";
+  var selector = ".article-content, .article_title, .post_title, .post-list";
   var skipTags = /^(SCRIPT|STYLE|CODE|PRE|TEXTAREA|SELECT|OPTION)$/;
 
   function escapeRegExp(value) {
